@@ -50,10 +50,6 @@ redirect_from:
   </div>
 </div>
 
-<div class="language-toggle" role="group" aria-label="Language selector">
-  <button type="button" data-lang-switch="zh">中文</button>
-  <button type="button" data-lang-switch="en">English</button>
-</div>
 
 <nav class="quick-nav" aria-label="Quick links">
   <a href="#about"><i class="fas fa-id-card" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">个人简介</span></a>
@@ -167,11 +163,7 @@ redirect_from:
 </script>
 
 <style>
-html:not([data-lang="en"]) .lang-en {
-  display: none !important;
-}
-
-html[data-lang="en"] .lang-zh {
+.lang-en {
   display: none !important;
 }
 
@@ -424,6 +416,248 @@ html[data-lang="en"] .lang-zh {
     height: 180px;
   }
 }
+
+.section-lead {
+  color: #59636f;
+  line-height: 1.75;
+  margin: 0.2rem 0 1rem;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 1rem 0 1.6rem;
+}
+
+.research-card {
+  position: relative;
+  border: 1px solid #d8e1ed;
+  border-radius: 10px;
+  padding: 18px 18px 16px;
+  background: #fff;
+}
+
+.research-index {
+  color: #365f91;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  margin-bottom: 10px;
+}
+
+.research-card h3 {
+  color: #2f3945;
+  font-size: 1.05rem;
+  margin: 0 0 10px;
+}
+
+.research-card p {
+  color: #58616c;
+  font-size: 0.92rem;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 14px;
+}
+
+.research-tags span {
+  background: #f3f6fa;
+  border: 1px solid #dde5ef;
+  border-radius: 999px;
+  color: #365f91;
+  font-size: 0.72rem;
+  padding: 4px 8px;
+}
+
+@media (max-width: 900px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.experience-timeline {
+  position: relative;
+  margin: 1rem 0 1.7rem;
+  padding-left: 22px;
+}
+
+.experience-timeline::before {
+  content: "";
+  position: absolute;
+  left: 5px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: #dbe3ed;
+}
+
+.experience-item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 135px 1fr;
+  gap: 18px;
+  padding: 0 0 22px 14px;
+}
+
+.experience-item::before {
+  content: "";
+  position: absolute;
+  left: -21px;
+  top: 7px;
+  width: 10px;
+  height: 10px;
+  border: 3px solid #365f91;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.experience-date {
+  color: #365f91;
+  font-weight: 700;
+  font-size: 0.86rem;
+  padding-top: 2px;
+}
+
+.experience-content h3 {
+  font-size: 1rem;
+  margin: 0 0 4px;
+}
+
+.experience-content p {
+  color: #4e5965;
+  margin: 0 0 3px;
+}
+
+.experience-content span {
+  color: #7a8490;
+  font-size: 0.84rem;
+}
+
+@media (max-width: 700px) {
+  .experience-item {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 1rem 0 1.7rem;
+}
+
+.info-card {
+  border: 1px solid #d8e1ed;
+  border-radius: 10px;
+  padding: 18px;
+  background: #fff;
+}
+
+.info-icon {
+  color: #365f91;
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+}
+
+.info-card h3 {
+  font-size: 1rem;
+  margin: 0 0 10px;
+}
+
+.info-card p {
+  color: #59636f;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  margin: 0 0 6px;
+}
+
+@media (max-width: 900px) {
+  .info-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 1rem 0 1.7rem;
+}
+
+.info-card {
+  border: 1px solid #d8e1ed;
+  border-radius: 10px;
+  padding: 18px;
+  background: #fff;
+}
+
+.info-icon {
+  color: #365f91;
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+}
+
+.info-card h3 {
+  font-size: 1rem;
+  margin: 0 0 10px;
+}
+
+.info-card p {
+  color: #59636f;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  margin: 0 0 6px;
+}
+
+@media (max-width: 900px) {
+  .info-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 1rem 0 1.7rem;
+}
+
+.service-card {
+  border-top: 3px solid #365f91;
+  background: #f8fafc;
+  padding: 18px;
+}
+
+.service-card > i {
+  color: #365f91;
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.service-card h3 {
+  font-size: 1rem;
+  margin: 0 0 8px;
+}
+
+.service-card p {
+  color: #59636f;
+  font-size: 0.88rem;
+  line-height: 1.65;
+  margin: 0;
+}
+
+@media (max-width: 900px) {
+  .service-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 
 -----
@@ -505,37 +739,55 @@ For more updates, please visit the <a href="https://liujiyuan13.github.io/" targ
 
 <span class='anchor' id='experience'></span>
 
-# <i class="fas fa-briefcase section-icon" aria-hidden="true"></i><span class="lang-en">Experience</span><span class="lang-zh">教育与工作经历</span>
+# <i class="fas fa-briefcase section-icon" aria-hidden="true"></i>教育与工作经历
 
-<div class="lang-zh">
+<div class="experience-timeline">
 
-- **2025 - 至今**　国防科技大学系统工程学院，**副教授**
+  <div class="experience-item">
+    <div class="experience-date">2025 — 至今</div>
+    <div class="experience-content">
+      <h3>副教授</h3>
+      <p>国防科技大学 · 系统工程学院</p>
+    </div>
+  </div>
 
-- **2022 - 2025**　国防科技大学系统工程学院，**讲师**
+  <div class="experience-item">
+    <div class="experience-date">2022 — 2025</div>
+    <div class="experience-content">
+      <h3>讲师</h3>
+      <p>国防科技大学 · 系统工程学院</p>
+    </div>
+  </div>
 
-- **2017 - 2022**　国防科技大学计算机学院，**硕博研究生**  
-  2022年获博士学位。
+  <div class="experience-item">
+    <div class="experience-date">2017 — 2022</div>
+    <div class="experience-content">
+      <h3>硕博研究生</h3>
+      <p>国防科技大学 · 计算机学院</p>
+      <span>2022年获博士学位</span>
+    </div>
+  </div>
 
-- **2016 - 2017**　加拿大西蒙菲莎大学（Simon Fraser University），**访问学生**  
-  在 Jiangchuan Liu 教授团队开展交流学习，获国家留学基金委（CSC）资助。
+  <div class="experience-item">
+    <div class="experience-date">2016 — 2017</div>
+    <div class="experience-content">
+      <h3>访问学生</h3>
+      <p>Simon Fraser University · Canada</p>
+      <span>Jiangchuan Liu 教授团队，国家留学基金委（CSC）资助</span>
+    </div>
+  </div>
 
-- **2013 - 2017**　国防科技大学，**钱学森创新拓展班，本科**
+  <div class="experience-item">
+    <div class="experience-date">2013 — 2017</div>
+    <div class="experience-content">
+      <h3>本科 · 钱学森创新拓展班</h3>
+      <p>国防科技大学</p>
+    </div>
+  </div>
 
 </div>
 
-<div class="lang-en">
-
-- **2025 - Present** — Associate Professor, College of Systems Engineering, National University of Defense Technology
-
-- **2022 - 2025** — Lecturer, College of Systems Engineering, National University of Defense Technology
-
-- **2017 - 2022** — M.Sc.-Ph.D. Student, College of Computer Science, National University of Defense Technology
-
-- **2016 - 2017** — Visiting Student, Simon Fraser University, Canada
-
-- **2013 - 2017** — Undergraduate Student, Qian Xuesen Class, National University of Defense Technology
-
-</div>
+-----
 
 -----
 
@@ -619,43 +871,56 @@ For detailed application information, please visit the [English Homepage](https:
 
 <span class='anchor' id='research'></span>
 
-# <i class="fas fa-microscope section-icon" aria-hidden="true"></i><span class="lang-en">Research</span><span class="lang-zh">研究方向</span>
+# <i class="fas fa-microscope section-icon" aria-hidden="true"></i>研究方向
 
-<div class="lang-zh">
+<p class="section-lead">
+主要围绕多源异构数据的表示、融合与学习开展研究，重点关注多视图学习理论与算法，以及面向复杂现实场景的高效、可靠机器学习方法。
+</p>
 
-刘吉元老师主要围绕**多源异构数据的表示、融合与学习**开展研究，重点关注多视图学习理论与算法，以及面向复杂现实场景的高效、可靠机器学习方法。
+<div class="research-grid">
 
-### 01 多视图学习与聚类
+  <div class="research-card">
+    <div class="research-index">01</div>
+    <h3>多视图学习与聚类</h3>
+    <p>
+      围绕多源异构数据中不同视图之间的一致性与互补性，研究多视图表示学习、聚类、多核学习与信息融合方法，探索更加完整、可靠的潜在结构。
+    </p>
+    <div class="research-tags">
+      <span>Multi-view Clustering</span>
+      <span>Representation Learning</span>
+      <span>Multiple Kernel Learning</span>
+    </div>
+  </div>
 
-围绕多源异构数据中不同视图之间的**一致性与互补性**，研究多视图表示学习、聚类、多核学习与信息融合方法，探索如何从多源数据中学习更加完整、可靠的潜在结构。
+  <div class="research-card">
+    <div class="research-index">02</div>
+    <h3>联邦多视图学习</h3>
+    <p>
+      面向数据分散、隐私保护和跨客户端协同场景，研究联邦环境下的多视图表示与聚类方法，重点关注异构数据协同、通信效率与模型泛化。
+    </p>
+    <div class="research-tags">
+      <span>Federated Learning</span>
+      <span>Privacy</span>
+      <span>Distributed Learning</span>
+    </div>
+  </div>
 
-### 02 联邦多视图学习
-
-面向数据分散、隐私保护和跨客户端协同场景，研究**联邦环境下的多视图表示与聚类方法**，重点关注异构数据协同、通信效率、隐私保护及模型泛化等问题。
-
-### 03 复杂场景下的多视图学习
-
-面向真实应用中的**缺失视图、大规模数据、动态数据及噪声干扰**等问题，研究鲁棒、高效和可扩展的多视图学习方法，提升模型在复杂开放环境下的适应能力。
+  <div class="research-card">
+    <div class="research-index">03</div>
+    <h3>复杂场景多视图学习</h3>
+    <p>
+      面向真实应用中的缺失视图、大规模数据、动态数据和噪声干扰等问题，研究鲁棒、高效和可扩展的多视图学习方法。
+    </p>
+    <div class="research-tags">
+      <span>Incomplete Views</span>
+      <span>Large-scale Learning</span>
+      <span>Robust Learning</span>
+    </div>
+  </div>
 
 </div>
 
-<div class="lang-en">
-
-Research focuses on multi-view learning and machine learning for heterogeneous multi-source data, with particular interests in representation learning, clustering, federated learning, and learning under complex real-world scenarios.
-
-### 01 Multi-view Learning and Clustering
-
-Learning consistent and complementary representations from heterogeneous multi-view data, with interests in multi-view clustering, representation learning, multiple kernel learning, and information fusion.
-
-### 02 Federated Multi-view Learning
-
-Developing collaborative multi-view learning methods under distributed and privacy-preserving settings, with emphasis on data heterogeneity, communication efficiency, privacy, and generalization.
-
-### 03 Multi-view Learning in Complex Scenarios
-
-Developing robust and scalable multi-view learning methods for incomplete views, large-scale data, dynamic environments, and noisy observations.
-
-</div>
+-----
 
 -----
 
@@ -928,59 +1193,46 @@ Selected first-author works on multi-view learning, multiple kernel learning, fe
 
 <span class='anchor' id='projects'></span>
 
-# <i class="fas fa-tasks section-icon" aria-hidden="true"></i><span class="lang-en">Projects & Honors</span><span class="lang-zh">科研项目与荣誉</span>
+# <i class="fas fa-tasks section-icon" aria-hidden="true"></i>科研项目与荣誉
 
-### <span class="lang-zh">人才计划</span><span class="lang-en">Talent Programs</span>
+<div class="info-grid">
 
-<div class="lang-zh">
+  <div class="info-card">
+    <div class="info-icon">
+      <i class="fas fa-user-tie"></i>
+    </div>
+    <h3>人才计划</h3>
+    <p>中国指挥与控制学会青年人才托举工程</p>
+    <p>湖南省“芙蓉计划”青年人才</p>
+    <p>国防科技大学高层次创新人才</p>
+  </div>
 
-- 入选**中国指挥与控制学会青年人才托举工程**
-- 入选**湖南省“芙蓉计划”青年人才**
-- 入选**国防科技大学高层次创新人才**
+  <div class="info-card">
+    <div class="info-icon">
+      <i class="fas fa-award"></i>
+    </div>
+    <h3>代表性荣誉</h3>
+    <p>2025年 CCF 科技成果一等奖</p>
+    <p>全军优秀博士学位论文奖</p>
+    <p>CCF 信息系统专委会优秀博士学位论文奖</p>
+    <p>全球前2%顶尖科学家榜单</p>
+  </div>
 
-</div>
-
-<div class="lang-en">
-
-- Young Talent Support Program, Chinese Institute of Command and Control
-- Hunan Province Furong Young Talent Program
-- High-level Innovative Talent Program, National University of Defense Technology
-
-</div>
-
-### <span class="lang-zh">代表性荣誉</span><span class="lang-en">Selected Honors</span>
-
-<div class="lang-zh">
-
-- **2025年 CCF 科技成果一等奖**
-- **全军优秀博士学位论文奖**
-- **CCF 信息系统专委会优秀博士学位论文奖**
-- 入选**全球前2%顶尖科学家榜单**
-
-</div>
-
-<div class="lang-en">
-
-- CCF Science and Technology Achievement First Prize, 2025
-- Outstanding Doctoral Dissertation Award of the PLA
-- CCF Information Systems Technical Committee Outstanding Doctoral Dissertation Award
-- Listed among the world's top 2% scientists
-
-</div>
-
-### <span class="lang-zh">科研项目</span><span class="lang-en">Research Projects</span>
-
-<div class="lang-zh">
-
-主持或承担**国家自然科学基金、教育部、军委科技委等科研项目5项**，围绕多视图学习理论、算法及相关应用开展研究。
+  <div class="info-card">
+    <div class="info-icon">
+      <i class="fas fa-flask"></i>
+    </div>
+    <h3>科研项目</h3>
+    <p>
+      主持或承担国家自然科学基金、教育部、军委科技委等科研项目5项。
+    </p>
+    <p>
+      聚焦多视图学习理论、算法及相关应用研究。
+    </p>
+  </div>
 
 </div>
 
-<div class="lang-en">
-
-Principal investigator or key participant in research projects funded by the National Natural Science Foundation of China, the Ministry of Education, and related national defense research programs.
-
-</div>
 
 -----
 
@@ -1077,25 +1329,33 @@ More publications are available on the
 
 <span class='anchor' id='service'></span>
 
-# <i class="fas fa-hands-helping section-icon" aria-hidden="true"></i><span class="lang-en">Academic Service</span><span class="lang-zh">学术服务</span>
+# <i class="fas fa-hands-helping section-icon" aria-hidden="true"></i>学术服务
 
-<div class="lang-zh">
+<div class="service-grid">
 
-- **学术组织任职**：CCF理论计算机科学专委会执行委员、CAAI粒计算与知识发现专委会委员、CAAI信息融合相关专委会委员。
+  <div class="service-card">
+    <i class="fas fa-users"></i>
+    <h3>学术组织</h3>
+    <p>
+      CCF理论计算机科学专委会执行委员、CAAI粒计算与知识发现专委会委员、CAAI信息融合相关专委会委员。
+    </p>
+  </div>
 
-- **期刊审稿**：长期担任 IEEE TPAMI、IEEE TKDE、IEEE TIP、IEEE TNNLS、IEEE TCSVT、Information Fusion、Frontiers of Computer Science 等国际期刊审稿人。
+  <div class="service-card">
+    <i class="fas fa-book-open"></i>
+    <h3>期刊服务</h3>
+    <p>
+      IEEE TPAMI、TKDE、TIP、TNNLS、TCSVT、Information Fusion、Frontiers of Computer Science 等期刊审稿人。
+    </p>
+  </div>
 
-- **会议服务**：担任 NeurIPS、ICML、ICLR、CVPR、ICCV、ACM Multimedia、WWW、AAAI、IJCAI 等国际会议领域主席、高级程序委员、程序委员或审稿人。
-
-</div>
-
-<div class="lang-en">
-
-- Executive Committee Member of the CCF Technical Committee on Theoretical Computer Science, and committee member of relevant CAAI technical committees.
-
-- Reviewer for IEEE TPAMI, IEEE TKDE, IEEE TIP, IEEE TNNLS, IEEE TCSVT, Information Fusion, Frontiers of Computer Science, and other journals.
-
-- Area Chair / Senior Program Committee / Program Committee Member / Reviewer for NeurIPS, ICML, ICLR, CVPR, ICCV, ACM Multimedia, WWW, AAAI, IJCAI, and other major conferences.
+  <div class="service-card">
+    <i class="fas fa-globe"></i>
+    <h3>会议服务</h3>
+    <p>
+      NeurIPS、ICML、ICLR、CVPR、ICCV、ACM MM、WWW、AAAI、IJCAI 等会议领域主席、高级程序委员、程序委员或审稿人。
+    </p>
+  </div>
 
 </div>
 
