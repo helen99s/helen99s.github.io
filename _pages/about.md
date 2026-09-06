@@ -368,11 +368,17 @@ html[data-lang="en"] .lang-zh {
 }
 
 .work-card img {
-  background: #f7f9fc;
-  border-bottom: 1px solid #e4eaf2;
-  height: auto;
-  object-fit: contain;
   width: 100%;
+  height: 220px;
+
+  object-fit: contain;
+  object-position: center;
+
+  box-sizing: border-box;
+  padding: 8px;
+
+  background: #ffffff;
+  border-bottom: 1px solid #e4eaf2;
 }
 
 .work-body {
