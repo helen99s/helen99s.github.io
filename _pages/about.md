@@ -20,34 +20,50 @@ redirect_from:
 # Jiyuan Liu (刘吉元)
 
 <div class="profile-lead">
-  <p class="role-line lang-en">
-    <i class="fas fa-user-graduate" aria-hidden="true"></i>
-    Associate Professor
-  </p>
 
-  <p class="role-line cn lang-zh">
+  <p class="role-line">
     <i class="fas fa-user-graduate" aria-hidden="true"></i>
-    副教授
+    副教授 · 硕士生导师
   </p>
 
   <div class="profile-meta">
-    <span class="lang-en">
-      <i class="fas fa-university" aria-hidden="true"></i>
-      College of Systems Engineering, National University of Defense Technology
-    </span>
 
-    <span class="lang-zh">
+    <span>
       <i class="fas fa-university" aria-hidden="true"></i>
       国防科技大学系统工程学院
     </span>
+
+    <span>
+      <i class="fas fa-envelope" aria-hidden="true"></i>
+      <a href="mailto:liujiyuan13@nudt.edu.cn">
+        liujiyuan13@nudt.edu.cn
+      </a>
+    </span>
+
   </div>
 
   <div class="profile-links">
-    <a href="https://liujiyuan13.github.io/" target="_blank">
+
+    <a href="https://scholar.google.com/citations?user=frKTkdoAAAAJ"
+       target="_blank">
+      <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+      Google Scholar
+    </a>
+
+    <a href="https://github.com/liujiyuan13"
+       target="_blank">
+      <i class="fab fa-github" aria-hidden="true"></i>
+      GitHub
+    </a>
+
+    <a href="https://liujiyuan13.github.io/"
+       target="_blank">
       <i class="fas fa-globe" aria-hidden="true"></i>
       English Homepage
     </a>
+
   </div>
+
 </div>
 
 
@@ -183,8 +199,10 @@ redirect_from:
 .profile-links i,
 .quick-nav i,
 .section-icon {
-  color: #365f91;
-  margin-right: 0.35rem;
+  display: inline-block;
+  width: auto;
+  margin-right: 0.7rem;
+  vertical-align: -0.04em;
 }
 
 .role-line.cn {
@@ -254,11 +272,6 @@ redirect_from:
 .profile-links a:hover,
 .quick-nav a:hover {
   background: #f4f7fb;
-}
-
-.section-icon {
-  display: inline-block;
-  width: 1.2rem;
 }
 
 .opening-highlight {
@@ -732,14 +745,17 @@ redirect_from:
 
 # <i class="fas fa-id-card section-icon" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">个人简介</span>
 
-刘吉元，国防科技大学系统工程学院副教授，主要从事多视图学习理论、算法及其应用研究。入选中国指挥与控制学会青年人才托举工程、湖南省“芙蓉计划”青年人才和国防科技大学高层次创新人才。荣获2025年CCF科技成果一等奖、全军优秀博士学位论文奖和CCF信息系统专委会优秀博士学位论文奖，并入选全球前2%顶尖科学家榜单。
-{: .lang-zh}
+<p>
+刘吉元，国防科技大学系统工程学院副教授、硕士生导师，主要从事多视图学习理论、算法及其应用研究。入选中国指挥与控制学会青年人才托举工程、湖南省“芙蓉计划”青年人才和国防科技大学高层次创新人才，获2025年CCF科技成果一等奖、全军优秀博士学位论文奖等荣誉。
+</p>
 
-近年来围绕多视图学习、联邦学习、聚类与表示学习等方向开展研究，相关成果发表于 TPAMI、NeurIPS、ICML、CVPR、ICCV、AAAI、ACM MM 等国际期刊和会议。已发表40余篇CCF A类和中科院一区学术论文，其中包括3篇TPAMI长文，2篇论文进入ESI 1%高被引论文列表，学术引用2000余次，授权国家发明专利10余项。
-{: .lang-zh}
+<p>
+2022年获国防科技大学博士学位，本科就读于国防科技大学钱学森创新拓展班。2016至2017年获国家留学基金委（CSC）资助赴加拿大西蒙菲莎大学访问交流，并自2019年起接受刘新旺教授、杨月祥教授及 Marius Kloft 教授等联合指导。
+</p>
 
-主持或承担国家自然科学基金、教育部、军委科技委等科研项目，并担任CCF理论计算机科学专委执行委员、CAAI信息融合专委委员、CAAI粒计算与知识发现专委委员，以及多个国际期刊和会议的领域主席、高级程序委员、程序委员和审稿人。
-{: .lang-zh}
+<p>
+主要研究多视图学习、联邦学习以及复杂场景下的表示与聚类方法，重点关注多源异构信息的一致性与互补性建模、隐私约束下的协同学习、不完整及大规模多视图学习等问题。相关成果发表于 TPAMI、NeurIPS、ICML、CVPR、ICCV、ACM MM 等国际期刊与会议，代表性工作涵盖联邦多视图聚类、对比多视图核学习、大规模多视图聚类及不完整多视图深度聚类等方向。
+</p>
 
 <div class="metrics-grid">
 
@@ -790,10 +806,6 @@ redirect_from:
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.01**：1 篇论文被 **Neural Networks** 录用。</span><span class="lang-en">**2026.01**: One paper was accepted by **Neural Networks**.</span>
 
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2025**：荣获 **CCF 科技成果一等奖**。</span><span class="lang-en">**2025**: Received the **CCF Science and Technology Achievement First Prize**.</span>
-
-<p class="lang-zh">
-更多最新成果请访问 <a href="https://liujiyuan13.github.io/" target="_blank">英文个人主页</a>。
-</p>
 
 <p class="lang-en">
 For more updates, please visit the <a href="https://liujiyuan13.github.io/" target="_blank">English Homepage</a>.
@@ -897,7 +909,7 @@ For more updates, please visit the <a href="https://liujiyuan13.github.io/" targ
     <h3>招生信息</h3>
 
     <p>
-      面向计算机、人工智能、自动化、数学及相关专业背景的学生开展科研与研究生培养。
+      面向计算机、人工智能、自动化及相关专业背景的学生开展科研与研究生培养。
     </p>
 
     <p>
@@ -915,13 +927,6 @@ For more updates, please visit the <a href="https://liujiyuan13.github.io/" targ
 
     <p>
       有意申请或参与科研的同学，可邮件联系并附个人简历、成绩单及简要研究兴趣介绍。
-    </p>
-
-    <p class="recruit-email">
-      <strong>Email：</strong>
-      <a href="mailto:liujiyuan13@nudt.edu.cn">
-        liujiyuan13@nudt.edu.cn
-      </a>
     </p>
 
     <p class="recruit-note">
@@ -1379,10 +1384,6 @@ IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 202
 
 </ol>
 
-<p class="lang-zh">
-更多论文及最新成果请参见
-<a href="https://liujiyuan13.github.io/" target="_blank">英文个人主页</a>。
-</p>
 
 <p class="lang-en">
 More publications are available on the
