@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "刘吉元"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "国防科技大学系统工程学院副教授"
   location         : "湖南长沙"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=frKTkdoAAAAJ"
-  email            : "liujiyuan13@nudt.edu.cn"
+  # email            :  "liujiyuan13@nudt.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Jiyuan-Liu-4"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "caoyunkang"
+  github           : "liujiyuan13"
   google_plus      :
   keybase          :
   instagram        :

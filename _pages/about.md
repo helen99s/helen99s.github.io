@@ -370,7 +370,7 @@ html[data-lang="en"] .lang-zh {
 .work-card img {
   background: #f7f9fc;
   border-bottom: 1px solid #e4eaf2;
-  height: 210px;
+  height: auto;
   object-fit: contain;
   width: 100%;
 }
@@ -686,7 +686,7 @@ Selected representative works on multi-view learning, federated learning, large-
 
 <!-- 2. Contrastive Multi-view Kernel Learning -->
 <div class="work-card">
-  <img src="/images/works/cmkl.png" alt="Contrastive Multi-view Kernel Learning">
+  <img src="/images/works/cmkl.jpg" alt="Contrastive Multi-view Kernel Learning">
   <div class="work-body">
     <p class="work-kicker">
       <i class="fas fa-project-diagram"></i> TPAMI 2023
