@@ -17,19 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Yunkang Cao (曹云康)
+# Jiyuan Liu (刘吉元)
 
 <div class="profile-lead">
-  <p class="role-line lang-en"><i class="fas fa-user-graduate" aria-hidden="true"></i> Assistant Professor / Associate Research Fellow / Ph.D. Supervisor / Deputy Director of the Department of Robotics Engineering</p>
-  <p class="role-line cn lang-zh"><i class="fas fa-user-graduate" aria-hidden="true"></i> 助理教授 · 副研究员 · 博士生导师 · 机器人工程系副主任</p>
+  <p class="role-line lang-en">
+    <i class="fas fa-user-graduate" aria-hidden="true"></i>
+    Associate Professor
+  </p>
+
+  <p class="role-line cn lang-zh">
+    <i class="fas fa-user-graduate" aria-hidden="true"></i>
+    副教授
+  </p>
+
   <div class="profile-meta">
-    <span class="lang-en"><i class="fas fa-university" aria-hidden="true"></i> School of Artificial Intelligence and Robotics, Hunan University</span>
-    <span class="lang-zh"><i class="fas fa-university" aria-hidden="true"></i> 湖南大学人工智能与机器人学院</span>
-    <span><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:caoyunkang0207@gmail.com">caoyunkang0207@gmail.com</a></span>
+    <span class="lang-en">
+      <i class="fas fa-university" aria-hidden="true"></i>
+      College of Systems Engineering, National University of Defense Technology
+    </span>
+
+    <span class="lang-zh">
+      <i class="fas fa-university" aria-hidden="true"></i>
+      国防科技大学系统工程学院
+    </span>
   </div>
+
   <div class="profile-links">
-    <a href="https://scholar.google.com/citations?user=aLJ8_G4AAAAJ&hl=zh-CN"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
-    <a href="https://github.com/caoyunkang"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+    <a href="https://liujiyuan13.github.io/" target="_blank">
+      <i class="fas fa-globe" aria-hidden="true"></i>
+      English Homepage
+    </a>
   </div>
 </div>
 
