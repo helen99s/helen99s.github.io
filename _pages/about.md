@@ -746,15 +746,23 @@ redirect_from:
 # <i class="fas fa-id-card section-icon" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">个人简介</span>
 
 <p>
-刘吉元，国防科技大学系统工程学院副教授、硕士生导师，主要从事多视图学习理论、算法及其应用研究。入选中国指挥与控制学会青年人才托举工程、湖南省“芙蓉计划”青年人才和国防科技大学高层次创新人才，获2025年CCF科技成果一等奖、全军优秀博士学位论文奖等荣誉。
+刘吉元，<a href="https://www.nudt.edu.cn/yssz/xtgcxy/index.htm" target="_blank" rel="noopener noreferrer">国防科技大学系统工程学院</a>副教授、硕士生导师，主要从事多视图学习理论、算法及其应用研究，重点关注多视图聚类、联邦多视图学习、多核学习以及复杂场景下的表示与信息融合。
 </p>
 
 <p>
-2022年获国防科技大学博士学位，本科就读于国防科技大学钱学森创新拓展班。2016至2017年获国家留学基金委（CSC）资助赴加拿大西蒙菲莎大学访问交流，并自2019年起接受刘新旺教授、杨月祥教授及 Marius Kloft 教授等联合指导。
+2022年获国防科技大学博士学位，本科就读于钱学森创新拓展班。2016至2017年获国家留学基金委（CSC）资助，赴加拿大 Simon Fraser University
+<a href="https://www.cs.sfu.ca/~jcliu/" target="_blank" rel="noopener noreferrer">Jiangchuan Liu 教授</a>团队访问交流；
+自2019年起接受
+<a href="https://xinwangliu.github.io/" target="_blank" rel="noopener noreferrer">刘新旺教授</a>、
+杨月祥教授及
+<a href="https://ml.cs.uni-kl.de/people/marius-kloft.php" target="_blank" rel="noopener noreferrer">Marius Kloft 教授</a>
+等联合指导。
 </p>
 
 <p>
-主要研究多视图学习、联邦学习以及复杂场景下的表示与聚类方法，重点关注多源异构信息的一致性与互补性建模、隐私约束下的协同学习、不完整及大规模多视图学习等问题。相关成果发表于 TPAMI、NeurIPS、ICML、CVPR、ICCV、ACM MM 等国际期刊与会议，代表性工作涵盖联邦多视图聚类、对比多视图核学习、大规模多视图聚类及不完整多视图深度聚类等方向。
+围绕上述方向形成了系列研究成果，相关工作发表于 TPAMI、NeurIPS、ICML、CVPR、ICCV、ACM MM 等重要国际期刊与会议。代表性研究涵盖
+<a href="#works">联邦多视图聚类、对比多视图核学习、大规模多视图聚类及不完整多视图深度聚类</a>
+等方向。
 </p>
 
 <div class="metrics-grid">
@@ -1040,9 +1048,11 @@ Selected first-author works on multi-view learning, multiple kernel learning, fe
     </p>
 
     <p class="work-links">
-      <a href="#" target="_blank">Paper</a>
+      <a href="https://liujiyuan13.github.io/pdfs/CeFMC_early_access.pdf"
+     target="_blank" rel="noopener noreferrer">Paper</a>
       ·
-      <a href="#" target="_blank">Code</a>
+      <a href="https://github.com/liujiyuan13/CeFMC-code_release"
+     target="_blank" rel="noopener noreferrer">Code</a>
     </p>
 
   </div>
@@ -1081,9 +1091,11 @@ Selected first-author works on multi-view learning, multiple kernel learning, fe
     </p>
 
     <p class="work-links">
-      <a href="#" target="_blank">Paper</a>
+      <a href="https://liujiyuan13.github.io/pdfs/Contrastive_Multi-view_Kernel_Learning.pdf"
+     target="_blank" rel="noopener noreferrer">Paper</a>
       ·
-      <a href="#" target="_blank">Code</a>
+      <a href="https://github.com/liujiyuan13/CMK-code_release"
+     target="_blank" rel="noopener noreferrer">Code</a>
     </p>
 
   </div>
@@ -1122,9 +1134,11 @@ Selected first-author works on multi-view learning, multiple kernel learning, fe
     </p>
 
     <p class="work-links">
-      <a href="#" target="_blank">Paper</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Large-scale_Multi-view_Tensor_Clustering_with_Implicit_Linear_Kernels_CVPR_2025_paper.pdf"
+     target="_blank" rel="noopener noreferrer">Paper</a>
       ·
-      <a href="#" target="_blank">Code</a>
+      <a href="https://github.com/liujiyuan13/LMTC-code_release"
+     target="_blank" rel="noopener noreferrer">Code</a>
     </p>
 
   </div>
@@ -1163,9 +1177,11 @@ Selected first-author works on multi-view learning, multiple kernel learning, fe
     </p>
 
     <p class="work-links">
-      <a href="#" target="_blank">Paper</a>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2025/file/8092824cd98b783ccba168446141d822-Paper-Conference.pdf"
+     target="_blank" rel="noopener noreferrer">Paper</a>
       ·
-      <a href="#" target="_blank">Code</a>
+      <a href="https://github.com/liujiyuan13/IMDC-DIA-code_release"
+     target="_blank" rel="noopener noreferrer">Code</a>
     </p>
 
   </div>
@@ -1204,9 +1220,11 @@ Selected first-author works on multi-view learning, multiple kernel learning, fe
     </p>
 
     <p class="work-links">
-      <a href="#" target="_blank">Paper</a>
+      <a href="https://liujiyuan13.github.io/pdfs/One-pass_Multi-view_Clustering_for_Large-scale_Data.pdf"
+     target="_blank" rel="noopener noreferrer">Paper</a>
       ·
-      <a href="#" target="_blank">Code</a>
+      <a href="https://github.com/liujiyuan13/OPMC-code_release"
+     target="_blank" rel="noopener noreferrer">Code</a>
     </p>
 
   </div>
@@ -1245,9 +1263,11 @@ Selected first-author works on multi-view learning, multiple kernel learning, fe
     </p>
 
     <p class="work-links">
-      <a href="#" target="_blank">Paper</a>
+      <a href="https://liujiyuan13.github.io/pdfs/Optimal_Neighborhood_Multiple_Kernel_Clustering_with_Adaptive_Local_Kernels.pdf"
+     target="_blank" rel="noopener noreferrer">Paper</a>
       ·
-      <a href="#" target="_blank">Code</a>
+      <a href="https://github.com/liujiyuan13/ON-ALK_release_code"
+     target="_blank" rel="noopener noreferrer">Code</a>
     </p>
 
   </div>
