@@ -754,7 +754,7 @@ redirect_from:
 <a href="https://www.cs.sfu.ca/~jcliu/" target="_blank" rel="noopener noreferrer">Jiangchuan Liu 教授</a>团队访问交流；
 自2019年起接受
 <a href="https://xinwangliu.github.io/" target="_blank" rel="noopener noreferrer">刘新旺教授</a>、
-杨月祥教授及
+杨岳湘教授及
 <a href="https://ml.cs.uni-kl.de/people/marius-kloft.php" target="_blank" rel="noopener noreferrer">Marius Kloft 教授</a>
 等联合指导。
 </p>
@@ -1007,7 +1007,7 @@ For more updates, please visit the <a href="https://liujiyuan13.github.io/" targ
 # <i class="fas fa-layer-group section-icon" aria-hidden="true"></i><span class="lang-en">Representative Works</span><span class="lang-zh">代表性成果</span>
 
 <p class="lang-zh">
-围绕多视图学习、多核学习、联邦协同、大规模数据和不完整数据等问题，形成了一系列具有代表性的研究成果。以下工作均为刘吉元老师以第一作者身份完成的代表性论文。
+围绕多视图学习、多核学习、联邦协同、大规模数据和不完整数据等问题，形成了一系列具有代表性的研究成果。以下工作均为以第一作者身份完成的代表性论文。
 </p>
 
 <p class="lang-en">
