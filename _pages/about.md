@@ -464,45 +464,66 @@ html[data-lang="en"] .lang-zh {
 
 # <i class="far fa-calendar-alt section-icon" aria-hidden="true"></i><span class="lang-en">News</span><span class="lang-zh">最新动态</span>
 
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.08*: Our paper [*"Irregularity-Aware 3D Anomaly Detection for Product Quality Control"*](https://ieeexplore.ieee.org/document/11670526/) has been accepted by **IEEE Transactions on Automation Science and Engineering (TASE)**.</span><span class="lang-zh">*2026.08*: 论文 [*"Irregularity-Aware 3D Anomaly Detection for Product Quality Control"*](https://ieeexplore.ieee.org/document/11670526/) 获 IEEE Transactions on Automation Science and Engineering（TASE）录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.07*: Our paper *"Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection"* was selected as a Best Student Paper Finalist at **IEEE CYBER 2026**.</span><span class="lang-zh">*2026.07*: 论文 *"Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection"* 入选 IEEE CYBER 2026 Best Student Paper Finalist。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.07*: Congratulations to Wenzhuo Sun. His project, *"Zero-shot Industrial Anomaly Detection Based on Active Embodied Vision and a Digital Twin,"* which I supervise, has been approved as a key-support project under the National Undergraduate Innovation Training Program.</span><span class="lang-zh">*2026.07*: 恭喜孙文卓！其负责并由本人指导的项目《基于主动具身视觉与数字孪生的零样本工业异常检测关键技术研究》获批为国家级大学生创新训练计划重点支持领域项目。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.06*: I was elected Deputy Director of the Department of Robotics Engineering, School of Artificial Intelligence and Robotics, Hunan University.</span><span class="lang-zh">*2026.06*: 当选湖南大学人工智能与机器人学院机器人工程系副主任。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.05*: Congratulations to Yuhuan Du. His first-author paper, *"OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection,"* received the Best Student Paper Award at ICAIS & ISAS 2026. I am the corresponding author.</span><span class="lang-zh">*2026.05*: 恭喜杜禹寰！其以第一作者完成的论文《OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection》获 ICAIS & ISAS 2026 Best Student Paper Award，本人担任通讯作者。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.05*: Our paper *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* has been accepted by **Pattern Recognition**.</span><span class="lang-zh">*2026.05*: 论文 *"Cross-source Medical Anomaly Detection via Prompt-guided Diffusion Representations"* 获 Pattern Recognition 录用。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.07**：3 篇论文被 **ACM Multimedia 2026（CCF A）**录用，研究涉及联邦多视图聚类、主锚图学习和不完整多视图聚类。</span><span class="lang-en">**2026.07**: Three papers were accepted by **ACM Multimedia 2026 (CCF A)**.</span>
 
-<details class="news-archive">
-<summary><span class="lang-en">View earlier news</span><span class="lang-zh">查看往期动态</span></summary>
-<div class="news-archive-list" markdown="1">
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.05**：1 篇论文被 **ICML 2026（CCF A）**录用，研究面向多视图聚类中的层次化锚图学习。</span><span class="lang-en">**2026.05**: One paper was accepted by **ICML 2026 (CCF A)**.</span>
 
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.04*: The *Pattern Recognition* Special Issue on *Foundation Models for Anomaly Detection, Reasoning, and Recovery* officially closed for submissions, receiving more than 230 manuscripts.</span><span class="lang-zh">*2026.04*: Pattern Recognition 特刊 *"Foundation Models for Anomaly Detection, Reasoning, and Recovery"* 正式截稿，累计收到 230 余篇稿件。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.03*: Our paper *"Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark"* has been accepted by **Pattern Recognition**.</span><span class="lang-zh">*2026.03*: 论文 *"Visual Anomaly Detection under Complex View-Illumination Interplay: A Large-Scale Benchmark"* 获 Pattern Recognition 录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2026.01*: Our survey paper *"A Comprehensive Survey for Real-World Industrial Defect Detection"* has been accepted by **Journal of Manufacturing Systems (JMS)**.</span><span class="lang-zh">*2026.01*: 综述论文 *"A Comprehensive Survey for Real-World Industrial Defect Detection"* 获 Journal of Manufacturing Systems 录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.12*: Our paper on [Zero-shot 3D Anomaly Detection](https://arxiv.org/pdf/2409.13162) has been accepted by **IEEE TSMC**.</span><span class="lang-zh">*2025.12*: 零样本 3D 异常检测论文获 IEEE TSMC 录用。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.11*: Three papers on high-resolution point cloud anomaly detection, zero-shot anomaly generation, and foundation models for anomaly detection have been accepted by **AAAI 2026**, including two oral presentations.</span><span class="lang-zh">*2025.11*: 课题组 3 篇论文获 AAAI 2026 录用，分别围绕高分辨率点云异常检测、零样本异常生成和异常检测基础模型展开，其中 2 篇入选 Oral。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.09*: I serve as the Executive Guest Editor for the *Pattern Recognition* Special Issue on *Foundation Models for Anomaly Detection, Reasoning, and Recovery*.</span><span class="lang-zh">*2025.09*: 担任 Pattern Recognition 特刊 *"Foundation Models for Anomaly Detection, Reasoning, and Recovery"* 执行客座编辑。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.05*: Congratulations to Xiaohao Xu. The paper *"Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning,"* co-first-authored by Xiaohao Xu and me, received the Best Student Paper Award at **IEEE CSCWD 2025**.</span><span class="lang-zh">*2025.05*: 恭喜徐晓豪！论文《Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning》获 IEEE CSCWD 2025 Best Student Paper Award，我与徐晓豪为共同第一作者。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.04*: We organized the CVPR 2025 pre-conference "Industrial Vision" special session, attracting more than 5,000 online viewers.</span><span class="lang-zh">*2025.04*: 组织 CVPR 2025 预会议“工业视觉”专场，线上观看人数超过 5000。</span>
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-en">*2025.03*: Two papers on unified anomaly detection and unseen anomaly generation have been accepted by **CVPR 2025**.</span><span class="lang-zh">*2025.03*: 统一异常检测与未见异常生成方向的 2 篇论文获 CVPR 2025 录用。</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.02**：1 篇论文被 **CVPR 2026（CCF A）**录用，研究面向基于张量化锚点引导的大规模多视图子空间聚类。</span><span class="lang-en">**2026.02**: One paper was accepted by **CVPR 2026 (CCF A)**.</span>
 
-</div>
-</details>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.02**：受邀担任 **ACM Multimedia 2026 Area Chair（领域主席）**。</span><span class="lang-en">**2026.02**: Invited to serve as an **Area Chair of ACM Multimedia 2026**.</span>
+
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.01**：1 篇论文被 **Neural Networks** 录用。</span><span class="lang-en">**2026.01**: One paper was accepted by **Neural Networks**.</span>
+
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2025**：荣获 **CCF 科技成果一等奖**。</span><span class="lang-en">**2025**: Received the **CCF Science and Technology Achievement First Prize**.</span>
+
+<p class="lang-zh">
+更多最新成果请访问 <a href="https://liujiyuan13.github.io/" target="_blank">英文个人主页</a>。
+</p>
+
+<p class="lang-en">
+For more updates, please visit the <a href="https://liujiyuan13.github.io/" target="_blank">English Homepage</a>.
+</p>
+
 
 
 -----
 
 <span class='anchor' id='experience'></span>
 
-# <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i><span class="lang-en">Education and Experience</span><span class="lang-zh">学习与工作经历</span>
+# <i class="fas fa-briefcase section-icon" aria-hidden="true"></i><span class="lang-en">Experience</span><span class="lang-zh">教育与工作经历</span>
 
-<ul>
-  <li><span class="lang-en"><strong>2025.05 - Present</strong>, Assistant Professor / Associate Research Fellow, School of Artificial Intelligence and Robotics, Hunan University.</span><span class="lang-zh"><strong>2025.05 至今</strong>，湖南大学，人工智能与机器人学院，助理教授 / 副研究员。</span></li>
-  <li><span class="lang-en"><strong>2020.09 - 2025.06</strong>, Ph.D. in Mechanical Engineering, Huazhong University of Science and Technology. Advisor: <a href="https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra">Prof. Weiming Shen</a>.</span><span class="lang-zh"><strong>2020.09 - 2025.06</strong>，华中科技大学，机械工程，博士，导师：沈卫明教授。</span></li>
-  <li><span class="lang-en"><strong>2023.10 - 2024.10</strong>, Visiting Ph.D. Researcher, Politecnico di Milano. Host: <a href="https://boracchi.faculty.polimi.it/">Prof. Giacomo Boracchi</a>.</span><span class="lang-zh"><strong>2023.10 - 2024.10</strong>，米兰理工大学，计算机科学，访问博士生，合作导师：Giacomo Boracchi。</span></li>
-  <li><span class="lang-en"><strong>2016.09 - 2020.06</strong>, B.E. in Mechanical Design, Manufacturing and Automation, Huazhong University of Science and Technology.</span><span class="lang-zh"><strong>2016.09 - 2020.06</strong>，华中科技大学，机械设计制造及其自动化，学士。</span></li>
-</ul>
+<div class="lang-zh">
+
+- **2025 - 至今**　国防科技大学系统工程学院，**副教授**
+
+- **2022 - 2025**　国防科技大学系统工程学院，**讲师**
+
+- **2017 - 2022**　国防科技大学计算机学院，**硕博研究生**  
+  2022年获博士学位。
+
+- **2016 - 2017**　加拿大西蒙菲莎大学（Simon Fraser University），**访问学生**  
+  在 Jiangchuan Liu 教授团队开展交流学习，获国家留学基金委（CSC）资助。
+
+- **2013 - 2017**　国防科技大学，**钱学森创新拓展班，本科**
+
+</div>
+
+<div class="lang-en">
+
+- **2025 - Present** — Associate Professor, College of Systems Engineering, National University of Defense Technology
+
+- **2022 - 2025** — Lecturer, College of Systems Engineering, National University of Defense Technology
+
+- **2017 - 2022** — M.Sc.-Ph.D. Student, College of Computer Science, National University of Defense Technology
+
+- **2016 - 2017** — Visiting Student, Simon Fraser University, Canada
+
+- **2013 - 2017** — Undergraduate Student, Qian Xuesen Class, National University of Defense Technology
+
+</div>
 
 -----
+
 
 <span class='anchor' id='openings'></span>
 
@@ -632,135 +653,225 @@ Developing robust and scalable multi-view learning methods for incomplete views,
 </p>
 
 <p class="lang-en">
-Selected works on multi-view learning, federated learning, large-scale clustering, and incomplete multi-view learning.
+Selected representative works on multi-view learning, federated learning, large-scale clustering, and incomplete multi-view learning.
 </p>
 
 <div class="works-grid">
 
-  <div class="work-card">
-    <img src="/images/work_fmvc.png" alt="Federated Multi-view Clustering">
-    <div class="work-body">
-      <p class="work-kicker">
-        <i class="fas fa-network-wired"></i>
-        TPAMI 2025
-      </p>
-      <h3>Communication-Efficient Federated Multi-view Clustering</h3>
-      <p class="lang-zh">
-        面向数据分散与隐私受限场景，研究通信高效的联邦多视图聚类方法，实现跨客户端多视图信息的协同建模。
-      </p>
-      <p class="lang-en">
-        Communication-efficient federated multi-view clustering under distributed and privacy-preserving settings.
-      </p>
-      <p class="work-links">
-        <a href="#">Paper</a>
-        ·
-        <a href="#">Code</a>
-      </p>
-    </div>
+<!-- 1. Federated MVC -->
+<div class="work-card">
+  <img src="/images/works/federated-mvc.jpg" alt="Federated Multi-view Clustering">
+  <div class="work-body">
+    <p class="work-kicker">
+      <i class="fas fa-network-wired"></i> TPAMI 2025
+    </p>
+
+    <h3>Communication-Efficient Federated Multi-view Clustering</h3>
+
+    <p class="lang-zh">
+      面向数据分散与隐私受限场景，研究通信高效的联邦多视图聚类方法，实现跨客户端多视图信息的协同建模。
+    </p>
+
+    <p class="lang-en">
+      Communication-efficient federated multi-view clustering for distributed and privacy-preserving scenarios.
+    </p>
+
+    <p class="work-links">
+      <a href="#">Paper</a> ·
+      <a href="#">Code</a>
+    </p>
   </div>
+</div>
 
 
-  <div class="work-card">
-    <img src="/images/work_cmkl.png" alt="Contrastive Multi-view Kernel Learning">
-    <div class="work-body">
-      <p class="work-kicker">
-        <i class="fas fa-project-diagram"></i>
-        TPAMI 2023
-      </p>
-      <h3>Contrastive Multi-view Kernel Learning</h3>
-      <p class="lang-zh">
-        将对比学习思想引入多视图核学习，通过不同视图与核表示之间的结构关系提升多源数据的聚类表示能力。
-      </p>
-      <p class="lang-en">
-        Contrastive learning for multi-view kernel representations and clustering.
-      </p>
-      <p class="work-links">
-        <a href="#">Paper</a>
-        ·
-        <a href="#">Code</a>
-      </p>
-    </div>
+<!-- 2. Contrastive Multi-view Kernel Learning -->
+<div class="work-card">
+  <img src="/images/works/cmkl.png" alt="Contrastive Multi-view Kernel Learning">
+  <div class="work-body">
+    <p class="work-kicker">
+      <i class="fas fa-project-diagram"></i> TPAMI 2023
+    </p>
+
+    <h3>Contrastive Multi-view Kernel Learning</h3>
+
+    <p class="lang-zh">
+      将对比学习思想引入多视图核学习，通过不同视图及核表示之间的结构关系提升多源数据的聚类表示能力。
+    </p>
+
+    <p class="lang-en">
+      Contrastive learning for multi-view kernel representations and clustering.
+    </p>
+
+    <p class="work-links">
+      <a href="#">Paper</a> ·
+      <a href="#">Code</a>
+    </p>
   </div>
+</div>
 
 
-  <div class="work-card">
-    <img src="/images/work_lmvc.png" alt="Large-scale Multi-view Tensor Clustering">
-    <div class="work-body">
-      <p class="work-kicker">
-        <i class="fas fa-database"></i>
-        CVPR 2025
-      </p>
-      <h3>Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels</h3>
-      <p class="lang-zh">
-        面向大规模多视图数据，研究基于隐式线性核和张量建模的高效聚类方法，提升多视图学习在大规模场景下的可扩展性。
-      </p>
-      <p class="lang-en">
-        Scalable tensor-based multi-view clustering with implicit linear kernels.
-      </p>
-      <p class="work-links">
-        <a href="#">Paper</a>
-        ·
-        <a href="#">Code</a>
-      </p>
-    </div>
+<!-- 3. Consistency and Large-scale MKC -->
+<div class="work-card">
+  <img src="/images/works/consistency-mkc.png" alt="Consistency and Large-scale Multiple Kernel Clustering">
+  <div class="work-body">
+    <p class="work-kicker">
+      <i class="fas fa-layer-group"></i> TPAMI 2024
+    </p>
+
+    <h3>On the Consistency and Large-Scale Extension of Multiple Kernel Clustering</h3>
+
+    <p class="lang-zh">
+      从一致性角度研究多核聚类机制，并进一步面向大规模数据扩展高效多核聚类方法。
+    </p>
+
+    <p class="lang-en">
+      Consistency analysis and scalable extension of multiple kernel clustering.
+    </p>
+
+    <p class="work-links">
+      <a href="#">Paper</a> ·
+      <a href="#">Code</a>
+    </p>
   </div>
+</div>
 
 
-  <div class="work-card">
-    <img src="/images/work_imvc.png" alt="Incomplete Multi-view Deep Clustering">
-    <div class="work-body">
-      <p class="work-kicker">
-        <i class="fas fa-puzzle-piece"></i>
-        NeurIPS 2025
-      </p>
-      <h3>Incomplete Multi-view Deep Clustering with Data Imputation and Alignment</h3>
-      <p class="lang-zh">
-        面向现实数据中的视图缺失问题，将数据补全与跨视图表示对齐结合，实现更加鲁棒的不完整多视图深度聚类。
-      </p>
-      <p class="lang-en">
-        Deep clustering for incomplete multi-view data through joint imputation and alignment.
-      </p>
-      <p class="work-links">
-        <a href="#">Paper</a>
-        ·
-        <a href="#">Code</a>
-      </p>
-    </div>
+<!-- 4. Large-scale MVC -->
+<div class="work-card">
+  <img src="/images/works/large-scale-mvc.png" alt="Large-scale Multi-view Tensor Clustering">
+  <div class="work-body">
+    <p class="work-kicker">
+      <i class="fas fa-database"></i> CVPR 2025
+    </p>
+
+    <h3>Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels</h3>
+
+    <p class="lang-zh">
+      面向大规模多视图数据，研究基于隐式线性核与张量建模的高效聚类方法，提升多视图学习的可扩展性。
+    </p>
+
+    <p class="lang-en">
+      Scalable tensor-based multi-view clustering with implicit linear kernels.
+    </p>
+
+    <p class="work-links">
+      <a href="#">Paper</a> ·
+      <a href="#">Code</a>
+    </p>
   </div>
+</div>
+
+
+<!-- 5. Incomplete MVC -->
+<div class="work-card">
+  <img src="/images/works/incomplete-mvc.png" alt="Incomplete Multi-view Deep Clustering">
+  <div class="work-body">
+    <p class="work-kicker">
+      <i class="fas fa-puzzle-piece"></i> NeurIPS 2025
+    </p>
+
+    <h3>Incomplete Multi-view Deep Clustering with Data Imputation and Alignment</h3>
+
+    <p class="lang-zh">
+      面向现实数据中的视图缺失问题，将数据补全与跨视图表示对齐相结合，实现更加鲁棒的不完整多视图深度聚类。
+    </p>
+
+    <p class="lang-en">
+      Deep clustering for incomplete multi-view data through joint imputation and alignment.
+    </p>
+
+    <p class="work-links">
+      <a href="#">Paper</a> ·
+      <a href="#">Code</a>
+    </p>
+  </div>
+</div>
+
+
+<!-- 6. One-pass MVC -->
+<div class="work-card">
+  <img src="/images/works/one-pass-mvc.png" alt="One-pass Multi-view Clustering">
+  <div class="work-body">
+    <p class="work-kicker">
+      <i class="fas fa-bolt"></i> ICCV 2021
+    </p>
+
+    <h3>One-pass Multi-view Clustering for Large-scale Data</h3>
+
+    <p class="lang-zh">
+      面向大规模多视图数据的计算与存储压力，研究单遍式多视图聚类方法，提高大规模场景下的学习效率。
+    </p>
+
+    <p class="lang-en">
+      One-pass multi-view clustering for efficient learning from large-scale data.
+    </p>
+
+    <p class="work-links">
+      <a href="#">Paper</a> ·
+      <a href="#">Code</a>
+    </p>
+  </div>
+</div>
 
 </div>
 
 -----
------
 
 <span class='anchor' id='projects'></span>
 
-# <i class="fas fa-tasks section-icon" aria-hidden="true"></i><span class="lang-en">Selected Research Projects</span><span class="lang-zh">部分科研项目</span>
+# <i class="fas fa-tasks section-icon" aria-hidden="true"></i><span class="lang-en">Projects & Honors</span><span class="lang-zh">科研项目与荣誉</span>
 
-<ol>
-  <li><span class="lang-en">National Natural Science Foundation of China, Major Program Topic, <strong>Cross-species Multi-sensory and Multi-granularity Bionic Perception</strong>, 62595801, 2026/01 - 2030/12, ongoing, participant.</span><span class="lang-zh">国家自然科学基金委员会重大项目课题，<strong>跨物种多感官多粒度仿生感知</strong>，62595801，2026/01 - 2030/12，在研，参与。</span></li>
-  <li><span class="lang-en">Yuelushan Laboratory Seed Industry Special Project, <strong>Key Technologies and Applications for Crop Holographic Phenotype Acquisition and Analysis</strong>, YLS-20026-ZY01003, 2026/03 - 2028/03, ongoing, sub-project leader.</span><span class="lang-zh">岳麓山实验室种业专项，“人工智能+生物育种”技术攻关项目，<strong>作物全息表型采集与解析关键技术及应用</strong>，YLS-20026-ZY01003，2026/03 - 2028/03，在研，子课题负责人。</span></li>
-  <li><span class="lang-en">Fuyao University of Science and Technology, School of Intelligent Manufacturing and Future Technology Open Fund, <strong>Semi-supervised Industrial Image Anomaly Detection via Defect Generation</strong>, FIMFYUST-2025B05, 2025/07 - 2027/07, ongoing, principal investigator.</span><span class="lang-zh">福耀科技大学智造与未来技术学院开放基金，<strong>基于缺陷生成的半监督工业图像异常检测算法研究</strong>，FIMFYUST-2025B05，2025/07 - 2027/07，在研，主持。</span></li>
-  <li><span class="lang-en">Zhejiang University Hangzhou International Innovation Center entrusted project, <strong>AI Defect Sample Generation Algorithm Development</strong>, 2026/01 - 2026/12, ongoing, principal investigator.</span><span class="lang-zh">浙江大学杭州国际科创中心委托项目，<strong>AI 缺陷样本生成算法开发</strong>，2026/01 - 2026/12，在研，主持。</span></li>
-  <li><span class="lang-en">Fundamental Research Funds for the Central Universities, <strong>Foundation-model-driven Anomaly Detection, Reasoning, and Recovery</strong>, 2025/10 - 2030/10, ongoing, principal investigator.</span><span class="lang-zh">中央高校基本科研基金项目，<strong>基于基础模型驱动的异常检测、推理与修复技术研究</strong>，2025/10 - 2030/10，在研，主持。</span></li>
-</ol>
+### <span class="lang-zh">人才计划</span><span class="lang-en">Talent Programs</span>
 
------
+<div class="lang-zh">
 
-<span class='anchor' id='teaching'></span>
+- 入选**中国指挥与控制学会青年人才托举工程**
+- 入选**湖南省“芙蓉计划”青年人才**
+- 入选**国防科技大学高层次创新人才**
 
-# <i class="fas fa-chalkboard-teacher section-icon" aria-hidden="true"></i><span class="lang-en">Teaching</span><span class="lang-zh">开设课程</span>
+</div>
 
-## <i class="fas fa-user-graduate section-icon" aria-hidden="true"></i><span class="lang-en">Undergraduate Courses</span><span class="lang-zh">本科生课程</span>
+<div class="lang-en">
 
-- <span class="lang-en">Mathematical Foundations of Artificial Intelligence, 32 hours</span><span class="lang-zh">人工智能中的数学基础，32 学时</span>
-- <span class="lang-en">Circuit Experiments, 32 hours</span><span class="lang-zh">电路实验，32 学时</span>
-- <span class="lang-en">Electronic Technology Practice II, 32 hours</span><span class="lang-zh">电子技术实践 II，32 学时</span>
+- Young Talent Support Program, Chinese Institute of Command and Control
+- Hunan Province Furong Young Talent Program
+- High-level Innovative Talent Program, National University of Defense Technology
 
-## <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i><span class="lang-en">Graduate Courses</span><span class="lang-zh">研究生课程</span>
+</div>
 
-- <span class="lang-en">Philosophy and Ethics in Artificial Intelligence, 32 hours</span><span class="lang-zh">人工智能中的哲学与伦理，32 学时</span>
-- <span class="lang-en">Robotics for the Future, 32 hours</span><span class="lang-zh">面向未来的机器人，32 学时</span>
+### <span class="lang-zh">代表性荣誉</span><span class="lang-en">Selected Honors</span>
+
+<div class="lang-zh">
+
+- **2025年 CCF 科技成果一等奖**
+- **全军优秀博士学位论文奖**
+- **CCF 信息系统专委会优秀博士学位论文奖**
+- 入选**全球前2%顶尖科学家榜单**
+
+</div>
+
+<div class="lang-en">
+
+- CCF Science and Technology Achievement First Prize, 2025
+- Outstanding Doctoral Dissertation Award of the PLA
+- CCF Information Systems Technical Committee Outstanding Doctoral Dissertation Award
+- Listed among the world's top 2% scientists
+
+</div>
+
+### <span class="lang-zh">科研项目</span><span class="lang-en">Research Projects</span>
+
+<div class="lang-zh">
+
+主持或承担**国家自然科学基金、教育部、军委科技委等科研项目5项**，围绕多视图学习理论、算法及相关应用开展研究。
+
+</div>
+
+<div class="lang-en">
+
+Principal investigator or key participant in research projects funded by the National Natural Science Foundation of China, the Ministry of Education, and related national defense research programs.
+
+</div>
 
 -----
 
@@ -768,116 +879,117 @@ Selected works on multi-view learning, federated learning, large-scale clusterin
 
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i><span class="lang-en">Representative Publications</span><span class="lang-zh">代表性论文</span>
 
-Note: \* indicates equal contribution. † indicates corresponding author.
-{: .lang-en}
+<p class="lang-zh">
+近年来围绕多视图学习、联邦学习、多核学习以及复杂场景下的表示与聚类等方向开展研究。以下列出部分代表性论文，完整论文列表请访问
+<a href="https://liujiyuan13.github.io/" target="_blank">English Homepage</a>。
+</p>
 
-说明：\* 表示共同第一作者，† 表示通讯作者。完整列表请见 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ&view_op=list_works&sortby=pubdate).
-{: .lang-zh}
-
-[![Citations](https://img.shields.io/badge/Citations-2300%2B-007ec6?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
-[![H-index](https://img.shields.io/badge/H--index-21-2563eb?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ)
-[![GitHub](https://img.shields.io/badge/GitHub-caoyunkang-181717?logo=github&logoColor=white)](https://github.com/caoyunkang)
-
-## <i class="fas fa-magic section-icon" aria-hidden="true"></i><span class="lang-en">Anomaly Generation</span><span class="lang-zh">异常生成</span>
+<p class="lang-en">
+Selected publications on multi-view learning, federated learning, multiple kernel learning, and clustering. For the complete publication list, please visit the
+<a href="https://liujiyuan13.github.io/" target="_blank">English Homepage</a>.
+</p>
 
 <ol>
-  <li>Sun H, Cao Y（曹云康）, Dong H, et al. Unseen Visual Anomaly Generation. <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2025. doi:10.1109/CVPR52734.2025.02375. CCF-A.</li>
-  <li>Jiang Y, Luo W, Zhang H, Shen W, Cao Y†（曹云康）. Anomagic: Crossmodal Prompt-driven Zero-shot Anomaly Generation. <i>AAAI Conference on Artificial Intelligence</i>, 2026. doi:10.48550/arXiv.2511.10020. CCF-A.</li>
-  <li>Cheng Y, Cao Y（曹云康）, Wang D, et al. Boosting global-local feature matching via anomaly synthesis for multi-class point cloud anomaly detection. <i>IEEE Transactions on Automation Science and Engineering</i>, 22: 12560-12571, 2025. doi:10.1109/TASE.2025.3544462. 中科院二区.</li>
-  <li>Cao Y（曹云康）, Yao H, Cai Y, Zhang Y, Chen H, Zhang H, Shen W. Cross-source medical anomaly detection via prompt-guided diffusion representations. <i>Pattern Recognition</i>, 2026, 180(Part A): 113985. doi:10.1016/j.patcog.2026.113985.</li>
+
+<li>
+<strong>Hierarchical Anchor Graph Learning for Multi-View Clustering</strong><br>
+International Conference on Machine Learning (<strong>ICML</strong>), 2026, CCF A.
+</li>
+
+<li>
+<strong>Scalable Multi-View Subspace Clustering with Tensorized Anchor Guidance</strong><br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026, CCF A.
+</li>
+
+<li>
+<strong>Communication-Efficient Federated Multi-view Clustering</strong><br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025, CCF A.
+</li>
+
+<li>
+<strong>Incomplete Multi-view Deep Clustering with Data Imputation and Alignment</strong><br>
+Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025, CCF A.
+</li>
+
+<li>
+<strong>Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels</strong><br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025, CCF A.
+</li>
+
+<li>
+<strong>Intra-view and Inter-view Correlation Guided Multi-view Novel Class Discovery</strong><br>
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2025, CCF A.
+</li>
+
+<li>
+<strong>On the Consistency and Large-Scale Extension of Multiple Kernel Clustering</strong><br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024, CCF A.
+</li>
+
+<li>
+<strong>Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information</strong><br>
+International Conference on Machine Learning (<strong>ICML</strong>), 2024, CCF A.
+</li>
+
+<li>
+<strong>Contrastive Multi-view Kernel Learning</strong><br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023, CCF A.
+</li>
+
+<li>
+<strong>Stability and Generalization of Kernel Clustering: From Single Kernel to Multiple Kernel</strong><br>
+Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022, CCF A.
+</li>
+
+<li>
+<strong>One-pass Multi-view Clustering for Large-scale Data</strong><br>
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021, CCF A.
+</li>
+
+<li>
+<strong>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</strong><br>
+IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2020, CCF A, ESI 1% Highly Cited Paper.
+</li>
+
 </ol>
 
-## <i class="fas fa-search section-icon" aria-hidden="true"></i><span class="lang-en">Anomaly Detection</span><span class="lang-zh">异常检测</span>
+<p class="lang-zh">
+更多论文及最新成果请参见
+<a href="https://liujiyuan13.github.io/" target="_blank">英文个人主页</a>。
+</p>
 
-<ol>
-  <li>Cheng Y, Cao Y（曹云康）, Yao H, Luo W, Zhang J, Shen W. <a href="https://ieeexplore.ieee.org/document/11670526/">Irregularity-Aware 3D Anomaly Detection for Product Quality Control</a>. <i>IEEE Transactions on Automation Science and Engineering</i>, 2026. doi:10.1109/TASE.2026.3728551. 中科院二区.</li>
-  <li>Cao Y（曹云康）, Zhang J, Frittoli L, et al. AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection. <i>European Conference on Computer Vision</i>, 2025. doi:10.1007/978-3-031-72761-0_4. CCF-B.</li>
-  <li>Luo W*, Cao Y*（曹云康）, Yao H, et al. Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection. <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2025. doi:10.1109/CVPR52734.2025.00932. CCF-A.</li>
-  <li>Cao Y（曹云康）, Xu X, Cheng Y, et al. Personalizing Vision-Language Models with Hybrid Prompts for Zero-Shot Anomaly Detection. <i>IEEE Transactions on Cybernetics</i>, 55(4): 1917-1929, 2025. 中科院一区.</li>
-  <li>Cao Y（曹云康）, Xu X, Liu Z, et al. Collaborative discrepancy optimization for reliable image anomaly localization. <i>IEEE Transactions on Industrial Informatics</i>, 19(11): 10674-10683, 2023. 中科院一区.</li>
-  <li>Cao Y（曹云康）, Yao H, Luo W, et al. VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling. <i>IEEE Transactions on Industrial Informatics</i>, 21(4): 3246-3255, 2025. 中科院一区，高被引论文.</li>
-  <li>Cao Y（曹云康）, Xu X, Shen W. Complementary pseudo multimodal feature for point cloud anomaly detection. <i>Pattern Recognition</i>, 156: 110761, 2024. doi:10.1016/j.patcog.2024.110761. 中科院一区.</li>
-  <li>Cheng Y*, Cao Y*（曹云康）, Xie G, et al. Towards zero-shot point cloud anomaly detection: A multi-view projection framework. <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 53(3): 1747-1760, 2026. doi:10.1109/TSMC.2025.3648581. 中科院一区.</li>
-  <li>Cao Y（曹云康）, Cheng Y, Zhang Y, et al. Visual anomaly detection under complex view-illumination interplay: A large-scale benchmark. <i>Pattern Recognition</i>, 2026.</li>
-</ol>
-
-## <i class="fas fa-brain section-icon" aria-hidden="true"></i><span class="lang-en">Anomaly Understanding</span><span class="lang-zh">异常理解</span>
-
-<ol>
-  <li>Li Y, Cao Y（曹云康）, Liu C, et al. IAD-R1: Reinforcing Consistent Reasoning in Industrial Anomaly Detection. <i>AAAI Conference on Artificial Intelligence</i>, 2026. doi:10.48550/arXiv.2508.09178. CCF-A, Oral.</li>
-  <li>Xu X, Cao Y（曹云康）, Zhang H, Sang N, Huang X. Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning. <i>International Conference on Computer Supported Cooperative Work in Design</i>, 2025. CCF-C, Best Student Paper Award.</li>
-  <li>Zhang Y, Cao Y（曹云康）, Xu X, et al. LogiCode: An LLM-Driven Framework for Logical Anomaly Detection. <i>IEEE Transactions on Automation Science and Engineering</i>, 22: 7712-7723, 2025. 中科院二区.</li>
-  <li>Cai W, Huang W, Cao Y（曹云康）, et al. Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection. <i>International Joint Conference on Artificial Intelligence</i>, 2025. CCF-A.</li>
-</ol>
-
-## <i class="fas fa-robot section-icon" aria-hidden="true"></i><span class="lang-en">Embodied Perception</span><span class="lang-zh">具身感知</span>
-
-<ol>
-  <li>Liu J*, Cao Y*（曹云康）, Chen Y*, Li C, Du Y, Zhang H. Towards Active Real-to-Twin Inspection: A New Paradigm for Zero-Shot Anomaly Detection. <i>The 16th IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems</i>, 2026. arXiv:2605.25407. Best Student Paper Finalist.</li>
-  <li>Du Y, Zhang H, Cheng Y, Huang C, Cao Y†（曹云康）. OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection. <i>2026 Joint International Conference on Automation-Intelligence-Safety and International Symposium on Autonomous Systems</i>, 2026: 1-6. doi:10.1109/ICAISISAS68969.2026.11567774. Best Student Paper.</li>
-  <li>Cheng Y, Sun Y, Zhang H, Shen W, Cao Y†（曹云康）. Towards high-resolution 3D anomaly detection: A scalable dataset and real-time framework for subtle industrial defects. <i>AAAI Conference on Artificial Intelligence</i>, 2026. doi:10.48550/arXiv.2507.07435. CCF-A, Oral.</li>
-  <li>Zhang H, Liu H, Biekezati B, Cao Y（曹云康）, et al. FPF: A Focused Perception Framework for Small Defect Identification in Complex Power Scenarios. <i>IEEE Transactions on Industrial Informatics</i>, doi:10.1109/TII.2025.3649024, 2026. 中科院一区.</li>
-</ol>
+<p class="lang-en">
+More publications are available on the
+<a href="https://liujiyuan13.github.io/" target="_blank">English Homepage</a>.
+</p>
 
 -----
 
-<span class='anchor' id='patents'></span>
-
-# <i class="fas fa-certificate section-icon" aria-hidden="true"></i><span class="lang-en">Selected Authorized Patents</span><span class="lang-zh">代表性授权专利</span>
-
-<ol>
-  <li>张辉，杜瑞，别克扎提·巴合提，陈厚权，邱宇，张恺宁，曹云康，王耀南. 一种基于霍奇分解与多模态融合的部件分割方法及系统：中国，ZL202511195689.2，2025年10月31日，授权。</li>
-  <li>张辉，唐友源，杜瑞，别克扎提·巴合提，陈厚权，张恺宁，曹云康，邱宇，王耀南. 一种基于结构感知框架的架空电力线覆冰厚度检测方法和系统：中国，ZL202511195907.2，2025年10月31日，授权。</li>
-  <li>沈卫明，程育奇，曹云康，张以恒，孙依晗，谭宇翔，张雨昕. 一种复杂零件缺陷数据标注方法、缺陷检测方法及多视角多光照数据采集装置：中国，ZL202510060769.0，2025年12月2日，授权。</li>
-  <li>沈卫明，程育奇，曹云康. 一种考虑原型分数校正的点云异常检测方法及设备：中国，ZL202510040267.1，2026年2月17日，授权。</li>
-  <li>沈卫明，程育奇，曹云康. 一种点云数据局部异常生成方法及系统：中国，ZL202410633098.8，2025年2月11日，授权。</li>
-  <li>沈卫明，程育奇，曹云康. 一种考虑多层级特征的多类别点云异常检测方法及系统：中国，ZL202410622146.3，2025年2月11日，授权。</li>
-  <li>沈卫明，程育奇，曹云康. 一种考虑提示学习的零样本点云异常检测方法及系统：中国，ZL202410359413.2，2024年11月5日，授权。</li>
-  <li>沈卫明，姜雨欣，曹云康. 基于原型学习引导的判别分割网络的小样本缺陷检测方法：中国，ZL202311254405.3，2025年11月4日，授权。</li>
-  <li>沈卫明，刘照阁，徐晓豪，曹云康. 基于像素单点及多元配对的无监督异常检测方法：中国，ZL202310570510.1，2026年1月6日，授权。</li>
-  <li>沈卫明，姜雨欣，曹云康. 一种工业缺陷检测方法及系统：中国，ZL202310570502.7，2025年11月21日，授权。</li>
-</ol>
-
------
-
-<span class='anchor' id='awards'></span>
-
-# <i class="fas fa-award section-icon" aria-hidden="true"></i><span class="lang-en">Awards</span><span class="lang-zh">科研获奖经历</span>
-
-<ol>
-  <li><span class="lang-en">Key Technologies and Applications of Multimodal Perception and Collaborative Optimization for Collaborative Intelligent Manufacturing, China Association of Inventions Invention Entrepreneurship Award, Project Award Second Prize, 3rd ranked, Dec. 2025.</span><span class="lang-zh">面向协同智能制造的多模态感知与协同优化关键技术及应用，中国发明协会发明创业奖项目奖二等奖，排名第三，2025年12月。</span></li>
-  <li><span class="lang-en">Key Technologies and Applications of Multimodal Perception and Collaborative Optimization for Collaborative Intelligent Manufacturing, Gold Award of the 29th National Invention Exhibition, 3rd ranked, Oct. 2025.</span><span class="lang-zh">面向协同智能制造的多模态感知与协同优化关键技术及应用，第二十九届全国发明展览会金奖，排名第三，2025年10月。</span></li>
-  <li><span class="lang-en">Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen. Runner-up, CVPR Visual Anomaly and Novelty Detection Challenge, Jun. 2023.</span><span class="lang-zh">Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen. CVPR Visual Anomaly and Novelty Detection Challenge，全球亚军，2023年6月。</span></li>
-  <li><span class="lang-en">Xiaohao Xu, Yunkang Cao, Huaxin Zhang, Nong Sang, Xiaonan Huang. Best Student Paper Award, IEEE Computer Supported Cooperative Work in Design, May 2025.</span><span class="lang-zh">Xiaohao Xu, Yunkang Cao, Huaxin Zhang, Nong Sang, Xiaonan Huang. IEEE Computer Supported Cooperative Work in Design，Best Student Paper Award，2025年5月。</span></li>
-  <li><span class="lang-en">Yuhuan Du et al. <i>OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection</i>, Best Student Paper Award, ICAIS & ISAS, 2026. Yuhuan Du is the student first author; Yunkang Cao is the corresponding author.</span><span class="lang-zh">杜禹寰等，<i>OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection</i>，ICAIS & ISAS 2026 Best Student Paper Award。杜禹寰为学生第一作者，曹云康为通讯作者。</span></li>
-  <li><span class="lang-en">Yunkang Cao, National Scholarship for Ph.D. Students, Nov. 2024.</span><span class="lang-zh">曹云康，博士研究生国家奖学金，2024年11月。</span></li>
-</ol>
-
------
 
 <span class='anchor' id='service'></span>
 
 # <i class="fas fa-hands-helping section-icon" aria-hidden="true"></i><span class="lang-en">Academic Service</span><span class="lang-zh">学术服务</span>
 
-## <i class="fas fa-edit section-icon" aria-hidden="true"></i><span class="lang-en">Editorial and Reviewing Service</span><span class="lang-zh">编委与审稿服务</span>
+<div class="lang-zh">
 
-- <span class="lang-en">Editorial Board Member, *Pattern Recognition*.</span><span class="lang-zh">*Pattern Recognition* 编委。</span>
-- <span class="lang-en">Lead organizer of the Special Issue on "Foundation Models for Anomaly Detection, Reasoning, and Recovery."</span><span class="lang-zh">牵头组织“面向缺陷检测、推理与修复的基础模型”专题特刊。</span>
-- <span class="lang-en">Special Session Chair, IEEE CSCWD 2025.</span><span class="lang-zh">IEEE CSCWD 2025 专题主席。</span>
-- <span class="lang-en">Reviewer for TPAMI, IJCV, CVPR, ICCV, NeurIPS, AAAI, IJCAI, *Pattern Recognition*, IEEE TCYB, IEEE TII, and other journals and conferences.</span><span class="lang-zh">担任 TPAMI、IJCV、CVPR、ICCV、NeurIPS、AAAI、IJCAI、Pattern Recognition、IEEE TCYB、IEEE TII 等期刊与会议审稿人。</span>
+- **学术组织任职**：CCF理论计算机科学专委会执行委员、CAAI粒计算与知识发现专委会委员、CAAI信息融合相关专委会委员。
 
-## <i class="fas fa-users section-icon" aria-hidden="true"></i><span class="lang-en">Workshop and Forum Organization</span><span class="lang-zh">研讨会与论坛组织</span>
+- **期刊审稿**：长期担任 IEEE TPAMI、IEEE TKDE、IEEE TIP、IEEE TNNLS、IEEE TCSVT、Information Fusion、Frontiers of Computer Science 等国际期刊审稿人。
 
-<ol>
-  <li><span class="lang-en">CVPR 2024-2026, Visual Anomaly and Novelty Detection Workshop (VAND).</span><span class="lang-zh">CVPR 2024-2026，视觉异常与新颖性检测研讨会 VAND。</span></li>
-  <li><span class="lang-en">IJCAI 2024, Anomaly Detection with Foundation Models Workshop (ADFM).</span><span class="lang-zh">IJCAI 2024，基于基础模型的异常检测研讨会 ADFM。</span></li>
-  <li><span class="lang-en">ICCV 2025, Anomaly Detection with Foundation Models Workshop (ADFM).</span><span class="lang-zh">ICCV 2025，基于基础模型的异常检测研讨会 ADFM。</span></li>
-  <li><span class="lang-en">CVPR 2026, Anomaly Detection with Foundation Models Workshop (ADFM).</span><span class="lang-zh">CVPR 2026，基于基础模型的异常检测研讨会 ADFM。</span></li>
-  <li><span class="lang-en">IEEE CASE, Special Session on Industrial Foundation Models and Applications in Smart Manufacturing.</span><span class="lang-zh">IEEE CASE，“智能制造中的工业大模型及其应用”专题。</span></li>
-  <li><span class="lang-en">CSIG Donghu Forum, CVPR 2025 pre-conference "Industrial Vision" special session.</span><span class="lang-zh">CSIG “东湖论坛”前沿论文分享会 CVPR 2025 预会议“工业视觉”专场。</span></li>
-  <li><span class="lang-en">YAC 2026, Special Session on Industrial Vision Intelligent Measurement and Inspection, Special Session Chair, Changsha.</span><span class="lang-zh">YAC 2026，“工业视觉智能测量与检测”专题，专题主席，长沙。</span></li>
-  <li><span class="lang-en">The 3rd International Conference on 3D Vision, Perception and Applications, Robot Intelligent Inspection Forum, Forum Secretary, Suzhou.</span><span class="lang-zh">第三届国际 3D 视觉感知与应用大会，“机器人智能检测”分会，论坛秘书，苏州。</span></li>
-  <li><span class="lang-en">CSIG Frontier Forum on Embodied Intelligent Perception and Inspection, Organizing Committee Chair, Guilin.</span><span class="lang-zh">CSIG 具身智能感知与检测前沿论坛，组织委员会主席，桂林。</span></li>
-</ol>
+- **会议服务**：担任 NeurIPS、ICML、ICLR、CVPR、ICCV、ACM Multimedia、WWW、AAAI、IJCAI 等国际会议领域主席、高级程序委员、程序委员或审稿人。
+
+</div>
+
+<div class="lang-en">
+
+- Executive Committee Member of the CCF Technical Committee on Theoretical Computer Science, and committee member of relevant CAAI technical committees.
+
+- Reviewer for IEEE TPAMI, IEEE TKDE, IEEE TIP, IEEE TNNLS, IEEE TCSVT, Information Fusion, Frontiers of Computer Science, and other journals.
+
+- Area Chair / Senior Program Committee / Program Committee Member / Reviewer for NeurIPS, ICML, ICLR, CVPR, ICCV, ACM Multimedia, WWW, AAAI, IJCAI, and other major conferences.
+
+</div>
+
+-----
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=QltdrDBXR7cYztdXsLCBfSeruYl8EMVZ7i3zpSoGzP4&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
