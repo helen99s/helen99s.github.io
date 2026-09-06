@@ -353,8 +353,9 @@ html[data-lang="en"] .lang-zh {
 
 .works-grid {
   display: grid;
-  gap: 14px;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 285px));
+  gap: 12px;
+  justify-content: start;
   margin: 1rem 0 1.6rem;
 }
 
@@ -369,15 +370,12 @@ html[data-lang="en"] .lang-zh {
 
 .work-card img {
   width: 100%;
-  height: 220px;
-
+  height: 180px;
   object-fit: contain;
   object-position: center;
-
   box-sizing: border-box;
-  padding: 8px;
-
-  background: #ffffff;
+  padding: 6px;
+  background: #fff;
   border-bottom: 1px solid #e4eaf2;
 }
 
@@ -385,7 +383,7 @@ html[data-lang="en"] .lang-zh {
   display: flex;
   flex: 1;
   flex-direction: column;
-  padding: 12px 14px 14px;
+  padding: 10px 12px 12px;
 }
 
 .work-kicker {
@@ -410,7 +408,18 @@ html[data-lang="en"] .lang-zh {
   margin-top: auto;
 }
 
-@media (max-width: 560px) {
+
+@media (max-width: 1100px) {
+  .works-grid {
+    grid-template-columns: repeat(2, minmax(0, 285px));
+  }
+}
+
+@media (max-width: 700px) {
+  .works-grid {
+    grid-template-columns: 1fr;
+  }
+
   .work-card img {
     height: 180px;
   }
