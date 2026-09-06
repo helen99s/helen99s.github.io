@@ -655,27 +655,40 @@ Developing robust and scalable multi-view learning methods for incomplete views,
 # <i class="fas fa-layer-group section-icon" aria-hidden="true"></i><span class="lang-en">Representative Works</span><span class="lang-zh">代表性成果</span>
 
 <p class="lang-zh">
-围绕多视图学习中的一致性与互补性建模、联邦协同、大规模学习和不完整数据等问题，形成了一系列代表性研究成果。
+围绕多视图学习、多核学习、联邦协同、大规模数据和不完整数据等问题，形成了一系列具有代表性的研究成果。以下工作均为刘吉元老师以第一作者身份完成的代表性论文。
 </p>
 
 <p class="lang-en">
-Selected representative works on multi-view learning, federated learning, large-scale clustering, and incomplete multi-view learning.
+Selected first-author works on multi-view learning, multiple kernel learning, federated learning, large-scale clustering, and incomplete multi-view learning.
 </p>
+
 
 <div class="works-grid">
 
-<!-- 1. Federated MVC -->
+
+<!-- ===================================================== -->
+<!-- 1. Communication-Efficient Federated Multi-view Clustering -->
+<!-- ===================================================== -->
+
 <div class="work-card">
-  <img src="/images/works/federated-mvc.jpg" alt="Federated Multi-view Clustering">
+
+  <img
+    src="/images/works/federated-mvc.jpg"
+    alt="Communication-Efficient Federated Multi-view Clustering">
+
   <div class="work-body">
+
     <p class="work-kicker">
-      <i class="fas fa-network-wired"></i> TPAMI 2025
+      <i class="fas fa-network-wired" aria-hidden="true"></i>
+      TPAMI 2025
     </p>
 
-    <h3>Communication-Efficient Federated Multi-view Clustering</h3>
+    <h3>
+      Communication-Efficient Federated Multi-view Clustering
+    </h3>
 
     <p class="lang-zh">
-      面向数据分散与隐私受限场景，研究通信高效的联邦多视图聚类方法，实现跨客户端多视图信息的协同建模。
+      面向数据分散与隐私受限场景，研究通信高效的联邦多视图聚类方法，实现跨客户端多视图信息的有效协同建模。
     </p>
 
     <p class="lang-en">
@@ -683,143 +696,224 @@ Selected representative works on multi-view learning, federated learning, large-
     </p>
 
     <p class="work-links">
-      <a href="#">Paper</a> ·
-      <a href="#">Code</a>
+      <a href="#" target="_blank">Paper</a>
+      ·
+      <a href="#" target="_blank">Code</a>
     </p>
+
   </div>
+
 </div>
 
 
+
+<!-- ===================================================== -->
 <!-- 2. Contrastive Multi-view Kernel Learning -->
+<!-- ===================================================== -->
+
 <div class="work-card">
-  <img src="/images/works/cmkl.jpg" alt="Contrastive Multi-view Kernel Learning">
+
+  <img
+    src="/images/works/cmkl.jpg"
+    alt="Contrastive Multi-view Kernel Learning">
+
   <div class="work-body">
+
     <p class="work-kicker">
-      <i class="fas fa-project-diagram"></i> TPAMI 2023
+      <i class="fas fa-project-diagram" aria-hidden="true"></i>
+      TPAMI 2023
     </p>
 
-    <h3>Contrastive Multi-view Kernel Learning</h3>
+    <h3>
+      Contrastive Multi-view Kernel Learning
+    </h3>
 
     <p class="lang-zh">
-      将对比学习思想引入多视图核学习，通过不同视图及核表示之间的结构关系提升多源数据的聚类表示能力。
+      将对比学习思想引入多视图核学习，通过不同视图及核表示之间的结构关系建模，提升多源数据的表示与聚类能力。
     </p>
 
     <p class="lang-en">
-      Contrastive learning for multi-view kernel representations and clustering.
+      Contrastive learning for effective multi-view kernel representations and clustering.
     </p>
 
     <p class="work-links">
-      <a href="#">Paper</a> ·
-      <a href="#">Code</a>
+      <a href="#" target="_blank">Paper</a>
+      ·
+      <a href="#" target="_blank">Code</a>
     </p>
+
   </div>
+
 </div>
 
 
-<!-- 3. Consistency and Large-scale MKC -->
+
+<!-- ===================================================== -->
+<!-- 3. Large-scale Multi-view Tensor Clustering -->
+<!-- ===================================================== -->
+
 <div class="work-card">
-  <img src="/images/works/consistency-mkc.png" alt="Consistency and Large-scale Multiple Kernel Clustering">
+
+  <img
+    src="/images/works/large-scale-mvc.jpg"
+    alt="Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels">
+
   <div class="work-body">
+
     <p class="work-kicker">
-      <i class="fas fa-layer-group"></i> TPAMI 2024
+      <i class="fas fa-database" aria-hidden="true"></i>
+      CVPR 2025
     </p>
 
-    <h3>On the Consistency and Large-Scale Extension of Multiple Kernel Clustering</h3>
+    <h3>
+      Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels
+    </h3>
 
     <p class="lang-zh">
-      从一致性角度研究多核聚类机制，并进一步面向大规模数据扩展高效多核聚类方法。
+      面向大规模多视图数据，研究基于隐式线性核与张量建模的高效聚类方法，提升多视图学习在大规模场景下的计算效率与可扩展性。
     </p>
 
     <p class="lang-en">
-      Consistency analysis and scalable extension of multiple kernel clustering.
+      Scalable tensor-based multi-view clustering with implicit linear kernels for large-scale data.
     </p>
 
     <p class="work-links">
-      <a href="#">Paper</a> ·
-      <a href="#">Code</a>
+      <a href="#" target="_blank">Paper</a>
+      ·
+      <a href="#" target="_blank">Code</a>
     </p>
+
   </div>
+
 </div>
 
 
-<!-- 4. Large-scale MVC -->
+
+<!-- ===================================================== -->
+<!-- 4. Incomplete Multi-view Deep Clustering -->
+<!-- ===================================================== -->
+
 <div class="work-card">
-  <img src="/images/works/large-scale-mvc.png" alt="Large-scale Multi-view Tensor Clustering">
+
+  <img
+    src="/images/works/incomplete-mvc.jpg"
+    alt="Incomplete Multi-view Deep Clustering with Data Imputation and Alignment">
+
   <div class="work-body">
+
     <p class="work-kicker">
-      <i class="fas fa-database"></i> CVPR 2025
+      <i class="fas fa-puzzle-piece" aria-hidden="true"></i>
+      NeurIPS 2025
     </p>
 
-    <h3>Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels</h3>
-
-    <p class="lang-zh">
-      面向大规模多视图数据，研究基于隐式线性核与张量建模的高效聚类方法，提升多视图学习的可扩展性。
-    </p>
-
-    <p class="lang-en">
-      Scalable tensor-based multi-view clustering with implicit linear kernels.
-    </p>
-
-    <p class="work-links">
-      <a href="#">Paper</a> ·
-      <a href="#">Code</a>
-    </p>
-  </div>
-</div>
-
-
-<!-- 5. Incomplete MVC -->
-<div class="work-card">
-  <img src="/images/works/incomplete-mvc.png" alt="Incomplete Multi-view Deep Clustering">
-  <div class="work-body">
-    <p class="work-kicker">
-      <i class="fas fa-puzzle-piece"></i> NeurIPS 2025
-    </p>
-
-    <h3>Incomplete Multi-view Deep Clustering with Data Imputation and Alignment</h3>
+    <h3>
+      Incomplete Multi-view Deep Clustering with Data Imputation and Alignment
+    </h3>
 
     <p class="lang-zh">
       面向现实数据中的视图缺失问题，将数据补全与跨视图表示对齐相结合，实现更加鲁棒的不完整多视图深度聚类。
     </p>
 
     <p class="lang-en">
-      Deep clustering for incomplete multi-view data through joint imputation and alignment.
+      Deep clustering for incomplete multi-view data through joint data imputation and representation alignment.
     </p>
 
     <p class="work-links">
-      <a href="#">Paper</a> ·
-      <a href="#">Code</a>
+      <a href="#" target="_blank">Paper</a>
+      ·
+      <a href="#" target="_blank">Code</a>
     </p>
+
   </div>
+
 </div>
 
 
-<!-- 6. One-pass MVC -->
+
+<!-- ===================================================== -->
+<!-- 5. One-pass Multi-view Clustering -->
+<!-- ===================================================== -->
+
 <div class="work-card">
-  <img src="/images/works/one-pass-mvc.png" alt="One-pass Multi-view Clustering">
+
+  <img
+    src="/images/works/one-pass-mvc.jpg"
+    alt="One-pass Multi-view Clustering for Large-scale Data">
+
   <div class="work-body">
+
     <p class="work-kicker">
-      <i class="fas fa-bolt"></i> ICCV 2021
+      <i class="fas fa-bolt" aria-hidden="true"></i>
+      ICCV 2021
     </p>
 
-    <h3>One-pass Multi-view Clustering for Large-scale Data</h3>
+    <h3>
+      One-pass Multi-view Clustering for Large-scale Data
+    </h3>
 
     <p class="lang-zh">
-      面向大规模多视图数据的计算与存储压力，研究单遍式多视图聚类方法，提高大规模场景下的学习效率。
+      面向大规模多视图数据的计算与存储压力，研究单遍式多视图聚类方法，在降低数据访问与计算开销的同时保持有效的聚类性能。
     </p>
 
     <p class="lang-en">
-      One-pass multi-view clustering for efficient learning from large-scale data.
+      One-pass multi-view clustering for efficient learning from large-scale multi-view data.
     </p>
 
     <p class="work-links">
-      <a href="#">Paper</a> ·
-      <a href="#">Code</a>
+      <a href="#" target="_blank">Paper</a>
+      ·
+      <a href="#" target="_blank">Code</a>
     </p>
+
   </div>
-</div>
 
 </div>
+
+
+
+<!-- ===================================================== -->
+<!-- 6. Optimal Neighborhood Multiple Kernel Clustering -->
+<!-- ===================================================== -->
+
+<div class="work-card">
+
+  <img
+    src="/images/works/onmkc.jpg"
+    alt="Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels">
+
+  <div class="work-body">
+
+    <p class="work-kicker">
+      <i class="fas fa-project-diagram" aria-hidden="true"></i>
+      TKDE 2020 · ESI Highly Cited
+    </p>
+
+    <h3>
+      Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels
+    </h3>
+
+    <p class="lang-zh">
+      面向多核聚类中的局部结构建模问题，通过自适应局部核学习刻画样本邻域关系，提升多核聚类的表示能力与聚类性能。该工作入选 ESI 高被引论文。
+    </p>
+
+    <p class="lang-en">
+      Adaptive local kernel learning for effective neighborhood modeling in multiple kernel clustering. This work was selected as an ESI Highly Cited Paper.
+    </p>
+
+    <p class="work-links">
+      <a href="#" target="_blank">Paper</a>
+      ·
+      <a href="#" target="_blank">Code</a>
+    </p>
+
+  </div>
+
+</div>
+
+
+</div>
+
+-----
 
 -----
 
