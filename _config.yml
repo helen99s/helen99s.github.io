@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yunkang Cao"
-description              : "Assistant Professor, Hunan University"
-repository               : "caoyunkang/caoyunkang.github.io"
+title                    : "Jiyuan Liu"
+description              : "Associate Professor, National University of Defense Technology"
+repository               : "helen99s/helen99s.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunkang Cao"
+  name             : "刘吉元"
   avatar           : "images/profile.png"
-  bio              : "Assistant Professor, Hunan University"
-  location         : "Hunan, China"
+  bio              : "国防科技大学系统工程学院副教授"
+  location         : "湖南长沙"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=aLJ8_G4AAAAJ&hl=zh-CN"
-  email            : "caoyunkang0207@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Yunkang-Cao"
+  googlescholar    : "https://scholar.google.com/citations?user=frKTkdoAAAAJ"
+  email            : "liujiyuan13@nudt.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Jiyuan-Liu-4"
   uri              :
   bitbucket        :
   codepen          :
