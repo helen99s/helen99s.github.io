@@ -658,6 +658,72 @@ redirect_from:
     grid-template-columns: 1fr;
   }
 }
+
+.recruit-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 1rem 0 1.7rem;
+}
+
+.recruit-card {
+  border: 1px solid #d8e1ed;
+  border-radius: 10px;
+  background: #fff;
+  padding: 18px;
+}
+
+.recruit-icon {
+  color: #365f91;
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+}
+
+.recruit-card h3 {
+  color: #303b47;
+  font-size: 1rem;
+  margin: 0 0 10px;
+}
+
+.recruit-card p {
+  color: #59636f;
+  font-size: 0.88rem;
+  line-height: 1.7;
+  margin: 0 0 8px;
+}
+
+.recruit-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin: 0 0 12px;
+}
+
+.recruit-tags span {
+  background: #f3f6fa;
+  border: 1px solid #dde5ef;
+  border-radius: 999px;
+  color: #365f91;
+  font-size: 0.76rem;
+  padding: 5px 9px;
+}
+
+.recruit-note {
+  color: #818a95 !important;
+  font-size: 0.8rem !important;
+}
+
+.recruit-email a {
+  color: #365f91;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  .recruit-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 </style>
 
 -----
@@ -789,83 +855,82 @@ For more updates, please visit the <a href="https://liujiyuan13.github.io/" targ
 
 -----
 
------
-
 
 <span class='anchor' id='openings'></span>
 
-# <i class="fas fa-user-plus section-icon" aria-hidden="true"></i><span class="lang-en">Openings</span><span class="lang-zh">招生与培养</span>
+# <i class="fas fa-user-plus section-icon" aria-hidden="true"></i>招生与培养
 
 <div class="opening-highlight">
-<p class="lang-zh">
-<i class="fas fa-bullhorn" aria-hidden="true"></i>
-欢迎对多视图学习、机器学习及相关研究方向感兴趣的同学联系交流。具体招生名额及要求以学校当年招生政策和导师安排为准。
-</p>
-
-<p class="lang-en">
-<i class="fas fa-bullhorn" aria-hidden="true"></i>
-Prospective students interested in multi-view learning, machine learning, and related topics are welcome to get in touch. Please refer to the English homepage for additional information.
-</p>
+  <i class="fas fa-bullhorn" aria-hidden="true"></i>
+  欢迎对多视图学习、机器学习及相关研究方向感兴趣的同学联系交流。
+  具体招生名额及要求以学校当年招生政策和导师安排为准。
 </div>
 
-### <span class="lang-zh">研究方向</span><span class="lang-en">Research Topics</span>
+<div class="recruit-grid">
 
-<div class="lang-zh">
+  <div class="recruit-card">
+    <div class="recruit-icon">
+      <i class="fas fa-compass"></i>
+    </div>
 
-- **多视图学习与聚类**：多源异构数据中的一致性、互补性建模与聚类分析。
-- **联邦多视图学习**：面向隐私保护和分布式场景的多视图协同学习。
-- **复杂场景多视图学习**：面向缺失视图、大规模数据、动态数据等现实问题的鲁棒学习方法。
-- **表示学习与智能信息融合**：研究面向复杂数据的表示、融合与学习方法。
+    <h3>主要招生方向</h3>
+
+    <div class="recruit-tags">
+      <span>多视图学习</span>
+      <span>联邦多视图学习</span>
+      <span>多视图聚类</span>
+      <span>表示学习</span>
+      <span>智能信息融合</span>
+    </div>
+
+    <p class="recruit-note">
+      具体研究内容可参见下方“研究方向”模块。
+    </p>
+  </div>
+
+
+  <div class="recruit-card">
+    <div class="recruit-icon">
+      <i class="fas fa-graduation-cap"></i>
+    </div>
+
+    <h3>招生信息</h3>
+
+    <p>
+      面向计算机、人工智能、自动化、数学及相关专业背景的学生开展科研与研究生培养。
+    </p>
+
+    <p>
+      具体招生类型、名额及申请要求以后续招生通知和导师安排为准。
+    </p>
+  </div>
+
+
+  <div class="recruit-card">
+    <div class="recruit-icon">
+      <i class="fas fa-envelope"></i>
+    </div>
+
+    <h3>申请与联系</h3>
+
+    <p>
+      有意申请或参与科研的同学，可邮件联系并附个人简历、成绩单及简要研究兴趣介绍。
+    </p>
+
+    <p class="recruit-email">
+      <strong>Email：</strong>
+      <a href="mailto:liujiyuan13@nudt.edu.cn">
+        liujiyuan13@nudt.edu.cn
+      </a>
+    </p>
+
+    <p class="recruit-note">
+      邮件主题建议注明：姓名 · 学校 · 专业 · 申请类型
+    </p>
+  </div>
 
 </div>
 
-<div class="lang-en">
-
-- Multi-view learning and clustering
-- Federated multi-view learning
-- Multi-view learning under complex scenarios
-- Representation learning and intelligent information fusion
-
-</div>
-
-### <span class="lang-zh">我们期待这样的你</span><span class="lang-en">What We Value</span>
-
-<div class="lang-zh">
-
-- 对机器学习、人工智能及相关研究问题具有浓厚兴趣；
-- 具有较好的数学基础和逻辑分析能力；
-- 具有一定的 Python / matlab 等编程基础；
-- 具有较强的自主学习能力、责任心和科研热情；
-- 不要求已有相关论文成果，更看重学习能力、研究兴趣和持续投入。
-
-</div>
-
-<div class="lang-en">
-
-- Strong interest in machine learning and artificial intelligence;
-- Solid mathematical and analytical foundations;
-- Basic programming skills in Python / PyTorch;
-- Self-motivation, responsibility, and enthusiasm for research.
-
-</div>
-
-### <span class="lang-zh">联系我们</span><span class="lang-en">Contact</span>
-
-<div class="lang-zh">
-
-有意申请或参与科研的同学，可将**个人简历、成绩单及简要研究兴趣介绍**发送至老师邮箱。
-
-> 邮箱：**[这里后续填写老师邮箱]**
-
-邮件主题建议注明：**姓名 + 学校 + 专业 + 申请类型**。
-
-</div>
-
-<div class="lang-en">
-
-For detailed application information, please visit the [English Homepage](https://liujiyuan13.github.io/).
-
-</div>
 
 -----
 
