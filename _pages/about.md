@@ -417,29 +417,45 @@ html[data-lang="en"] .lang-zh {
 
 # <i class="fas fa-id-card section-icon" aria-hidden="true"></i><span class="lang-en">About</span><span class="lang-zh">个人简介</span>
 
-I am an Assistant Professor and Ph.D. supervisor at the [School of Artificial Intelligence and Robotics, Hunan University (HNU)](http://robotics.hnu.edu.cn/). I also serve as an Associate Research Fellow at the National Engineering Research Center of Robot Visual Perception and Control Technology and as Deputy Director of the Department of Robotics Engineering. I am a core member of the research team led by [Yaonan Wang (王耀南院士)](https://robotics.hnu.edu.cn/info/1176/3098.htm) and [Hui Zhang (张辉院长)](https://robotics.hnu.edu.cn/info/1176/2966.htm), and I oversee research and technical development in breeding robotics at the Yuelushan Research Center for AI + Bio-Breeding.
-{: .lang-en}
-
-曹云康，湖南大学人工智能与机器人学院助理教授、博士生导师，机器人视觉感知与控制技术国家工程研究中心副研究员，兼任机器人工程系副主任。现为[王耀南院士](https://robotics.hnu.edu.cn/info/1176/3098.htm)、[张辉院长](https://robotics.hnu.edu.cn/info/1176/2966.htm)团队核心成员，负责岳麓山人工智能+生物育种研究中心育种机器人方向的技术研发工作。
+刘吉元，国防科技大学系统工程学院副教授，主要从事多视图学习理论、算法及其应用研究。入选中国指挥与控制学会青年人才托举工程、湖南省“芙蓉计划”青年人才和国防科技大学高层次创新人才。荣获2025年CCF科技成果一等奖、全军优秀博士学位论文奖和CCF信息系统专委会优秀博士学位论文奖，并入选全球前2%顶尖科学家榜单。
 {: .lang-zh}
 
-I received my Ph.D. in Mechanical Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/), where I was advised by [Prof. Weiming Shen](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra). From 2023 to 2024, I was a visiting Ph.D. researcher at [Politecnico di Milano](https://www.polimi.it/) under the supervision of [Prof. Giacomo Boracchi](https://boracchi.faculty.polimi.it/).
-{: .lang-en}
-
-2025 年获华中科技大学机械工程博士学位，师从[沈卫明教授](https://scholar.google.com.hk/citations?user=FuSHsx4AAAAJ&hl=en&oi=sra)。博士期间于 2023 至 2024 年赴[米兰理工大学](https://www.polimi.it/)访学，合作导师为 [Giacomo Boracchi 教授](https://boracchi.faculty.polimi.it/)。
+近年来围绕多视图学习、联邦学习、聚类与表示学习等方向开展研究，相关成果发表于 TPAMI、NeurIPS、ICML、CVPR、ICCV、AAAI、ACM MM 等国际期刊和会议。已发表40余篇CCF A类和中科院一区学术论文，其中包括3篇TPAMI长文，2篇论文进入ESI 1%高被引论文列表，学术引用2000余次，授权国家发明专利10余项。
 {: .lang-zh}
 
-My research spans intelligent industrial inspection and AI + Bio-Breeding. In industrial inspection, I work on anomaly generation, anomaly detection, anomaly understanding, and embodied perception, with a focus on robots that can actively find, verify, and explain anomalies. In bio-breeding, I study crop world models, foundation models for crop phenotyping, and autonomous robotic operation.
-{: .lang-en}
-
-主要研究工业智能检测和人工智能+生物育种。工业智能检测聚焦异常生成、异常检测、异常理解和具身感知，并将相关方法用于机器人主动巡检。人工智能+生物育种聚焦作物世界模型、表型解析大模型和机器人自主操作。工业智能检测方向的代表性工作包括 Anomagic、INP-Former、IAD-R1 等。
+主持或承担国家自然科学基金、教育部、军委科技委等科研项目，并担任CCF理论计算机科学专委执行委员、CAAI信息融合专委委员、CAAI粒计算与知识发现专委委员，以及多个国际期刊和会议的领域主席、高级程序委员、程序委员和审稿人。
 {: .lang-zh}
 
 <div class="metrics-grid">
-  <div class="metric-item"><i class="fas fa-file-alt" aria-hidden="true"></i><strong>60+</strong><span class="lang-en">Publications</span><span class="lang-zh">论文</span></div>
-  <div class="metric-item"><i class="fas fa-quote-right" aria-hidden="true"></i><strong>2300+</strong><span class="lang-en">Citations</span><span class="lang-zh">引用</span></div>
-  <div class="metric-item"><i class="fas fa-chart-line" aria-hidden="true"></i><strong>21</strong><span class="lang-en">H-index</span><span class="lang-zh">H 指数</span></div>
-  <div class="metric-item"><i class="fas fa-user-edit" aria-hidden="true"></i><strong>17</strong><span class="lang-en">First or Corresponding</span><span class="lang-zh">一作或通讯</span></div>
+
+  <div class="metric-item">
+    <i class="fas fa-file-alt" aria-hidden="true"></i>
+    <strong>40+</strong>
+    <span class="lang-zh">CCF A类 / 中科院一区论文</span>
+    <span class="lang-en">High-quality Publications</span>
+  </div>
+
+  <div class="metric-item">
+    <i class="fas fa-book" aria-hidden="true"></i>
+    <strong>3</strong>
+    <span class="lang-zh">TPAMI 长文</span>
+    <span class="lang-en">TPAMI Papers</span>
+  </div>
+
+  <div class="metric-item">
+    <i class="fas fa-quote-right" aria-hidden="true"></i>
+    <strong>2000+</strong>
+    <span class="lang-zh">学术引用</span>
+    <span class="lang-en">Citations</span>
+  </div>
+
+  <div class="metric-item">
+    <i class="fas fa-lightbulb" aria-hidden="true"></i>
+    <strong>10+</strong>
+    <span class="lang-zh">授权发明专利</span>
+    <span class="lang-en">Granted Patents</span>
+  </div>
+
 </div>
 
 -----
@@ -490,88 +506,120 @@ My research spans intelligent industrial inspection and AI + Bio-Breeding. In in
 
 <span class='anchor' id='openings'></span>
 
-# <i class="fas fa-user-plus section-icon" aria-hidden="true"></i><span class="lang-en">Openings and Mentoring</span><span class="lang-zh">招生与培养</span>
+# <i class="fas fa-user-plus section-icon" aria-hidden="true"></i><span class="lang-en">Openings</span><span class="lang-zh">招生与培养</span>
 
 <div class="opening-highlight">
-<p class="lang-en"><i class="fas fa-bullhorn" aria-hidden="true"></i>The 2027 Ph.D. quota is full. I am currently recruiting master's students and research assistants. Applicants from artificial intelligence, automation, computer science, mechanical engineering, and related fields are welcome. Master's students may join through recommendation-based admission, the national entrance examination, or transfer admission.</p>
-<p class="lang-zh"><i class="fas fa-bullhorn" aria-hidden="true"></i>2027 年博士研究生招生名额已满。目前主要招收硕士研究生和科研助理，欢迎人工智能、自动化、计算机、机械等相关专业的同学联系。硕士研究生可通过推免、统考或调剂申请。</p>
+<p class="lang-zh">
+<i class="fas fa-bullhorn" aria-hidden="true"></i>
+欢迎对多视图学习、机器学习及相关研究方向感兴趣的同学联系交流。具体招生名额及要求以学校当年招生政策和导师安排为准。
+</p>
+
+<p class="lang-en">
+<i class="fas fa-bullhorn" aria-hidden="true"></i>
+Prospective students interested in multi-view learning, machine learning, and related topics are welcome to get in touch. Please refer to the English homepage for additional information.
+</p>
 </div>
 
-I work directly with students on topic selection, research design, and paper writing. New members start with a concrete research problem and gradually complete the full process from literature review and experiment design to implementation and manuscript preparation. Topics are matched to each student's background and plans. Undergraduate students may join the group early, and research assistants may work remotely or on site. A commitment of about one year is recommended so that research assistants can complete a full project.
-{: .lang-en}
+### <span class="lang-zh">研究方向</span><span class="lang-en">Research Topics</span>
 
-我会直接参与学生的选题、研究设计和论文写作。新成员通常从一个具体课题做起，逐步完成文献调研、实验设计、算法实现和论文撰写。课题会结合个人基础和发展规划安排。本科生可提前进组，科研助理可线上或线下参与。建议科研助理连续投入一年左右，以便完整经历一个研究项目。
-{: .lang-zh}
+<div class="lang-zh">
 
-I advised Yuhuan Du, an undergraduate from the 2023 cohort, on *OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection*. He is the first author, and I am the corresponding author. The paper received the Best Student Paper Award at ICAIS & ISAS 2026. I also supervise Wenzhuo Sun's project on active embodied vision and digital twins, which was approved as a key-support project under the National Undergraduate Innovation Training Program. A paper co-first-authored by Xiaohao Xu and me received the Best Student Paper Award at IEEE CSCWD 2025.
-{: .lang-en}
+- **多视图学习与聚类**：多源异构数据中的一致性、互补性建模与聚类分析。
+- **联邦多视图学习**：面向隐私保护和分布式场景的多视图协同学习。
+- **复杂场景多视图学习**：面向缺失视图、大规模数据、动态数据等现实问题的鲁棒学习方法。
+- **表示学习与智能信息融合**：研究面向复杂数据的表示、融合与学习方法。
 
-指导 2023 级本科生杜禹寰以第一作者完成论文 *OmniPose-AD: Canonical Normal Rendering for Unaligned 3D Anomaly Detection*，该论文获 ICAIS & ISAS 2026 Best Student Paper Award，本人为通讯作者。指导孙文卓负责的项目《基于主动具身视觉与数字孪生的零样本工业异常检测关键技术研究》获批为国家级大学生创新训练计划重点支持领域项目。论文 *Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning* 获 IEEE CSCWD 2025 Best Student Paper Award，我与徐晓豪为共同第一作者。
-{: .lang-zh}
+</div>
 
-The group collaborates with the University of Oxford, Politecnico di Milano, Tsinghua University, Huazhong University of Science and Technology, Huawei, Tencent Youtu Lab, CATL, and SEER Robotics. Depending on their projects, students can use the group's computing resources and robotic platforms and take part in academic exchanges and industry collaborations.
-{: .lang-en}
+<div class="lang-en">
 
-课题组与牛津大学、米兰理工大学、清华大学、华中科技大学等高校保持合作，并与华为、腾讯优图、宁德时代、视比特机器人等企业开展联合研究。学生可根据课题需要使用团队的计算资源和机器人实验平台，并参与学术交流和产学研合作。
-{: .lang-zh}
+- Multi-view learning and clustering
+- Federated multi-view learning
+- Multi-view learning under complex scenarios
+- Representation learning and intelligent information fusion
 
-**Contact**: Please send your CV to [caoyunkang0207@gmail.com](mailto:caoyunkang0207@gmail.com) with the subject line "Master's Application / Research Assistant Application - Name - University - Major - Expected Start Date."
-{: .lang-en}
+</div>
 
-有意申请者请将个人简历发送至 [caoyunkang0207@gmail.com](mailto:caoyunkang0207@gmail.com)，邮件主题请按“硕士申请 / 科研助理申请 - 姓名 - 学校 - 专业 - 预计参与时间”填写。
-{: .lang-zh}
+### <span class="lang-zh">我们期待这样的你</span><span class="lang-en">What We Value</span>
+
+<div class="lang-zh">
+
+- 对机器学习、人工智能及相关研究问题具有浓厚兴趣；
+- 具有较好的数学基础和逻辑分析能力；
+- 具有一定的 Python / matlab 等编程基础；
+- 具有较强的自主学习能力、责任心和科研热情；
+- 不要求已有相关论文成果，更看重学习能力、研究兴趣和持续投入。
+
+</div>
+
+<div class="lang-en">
+
+- Strong interest in machine learning and artificial intelligence;
+- Solid mathematical and analytical foundations;
+- Basic programming skills in Python / PyTorch;
+- Self-motivation, responsibility, and enthusiasm for research.
+
+</div>
+
+### <span class="lang-zh">联系我们</span><span class="lang-en">Contact</span>
+
+<div class="lang-zh">
+
+有意申请或参与科研的同学，可将**个人简历、成绩单及简要研究兴趣介绍**发送至老师邮箱。
+
+> 邮箱：**[这里后续填写老师邮箱]**
+
+邮件主题建议注明：**姓名 + 学校 + 专业 + 申请类型**。
+
+</div>
+
+<div class="lang-en">
+
+For detailed application information, please visit the [English Homepage](https://liujiyuan13.github.io/).
+
+</div>
 
 -----
 
 <span class='anchor' id='research'></span>
 
-# <i class="fas fa-microscope section-icon" aria-hidden="true"></i><span class="lang-en">Research Directions</span><span class="lang-zh">研究方向</span>
+# <i class="fas fa-microscope section-icon" aria-hidden="true"></i><span class="lang-en">Research</span><span class="lang-zh">研究方向</span>
 
-Our research has two main themes: intelligent industrial inspection and AI + Bio-Breeding. The industrial inspection theme covers anomaly generation, anomaly detection, anomaly understanding, and embodied perception, with particular attention to limited defect data, unknown anomalies, anomaly cause analysis, and autonomous robotic inspection. The bio-breeding theme focuses on crop world models, foundation models for crop phenotyping, and autonomous robotic operation.
-{: .lang-en}
+<div class="lang-zh">
 
-研究工作分为工业智能检测和人工智能+生物育种两条主线。工业智能检测包括异常生成、异常检测、异常理解和具身感知，主要关注缺陷样本不足、未知异常识别、异常原因分析和机器人自主巡检。人工智能+生物育种主要研究作物世界模型、表型解析大模型和机器人自主操作。
-{: .lang-zh}
+刘吉元老师主要围绕**多源异构数据的表示、融合与学习**开展研究，重点关注多视图学习理论与算法，以及面向复杂现实场景的高效、可靠机器学习方法。
 
-## <i class="fas fa-magic section-icon" aria-hidden="true"></i><span class="lang-en">1. Anomaly Generation</span><span class="lang-zh">1. 异常生成</span>
+### 01 多视图学习与聚类
 
-We study physics-informed generation of realistic industrial defects. Our work combines generative models with physical priors and explores foundation-model agents that can plan the generation process, assess sample quality, and refine results iteratively. The generated data support detector training, benchmarking, and long-tail anomaly analysis when real defects are scarce.
-{: .lang-en}
+围绕多源异构数据中不同视图之间的**一致性与互补性**，研究多视图表示学习、聚类、多核学习与信息融合方法，探索如何从多源数据中学习更加完整、可靠的潜在结构。
 
-真实缺陷样本通常数量少、类型有限，采集和标注成本也较高。我们研究如何将物理先验引入缺陷生成，使合成样本的外观和成因更接近真实缺陷；同时探索大模型智能体在生成方案设计、样本筛选和迭代优化中的作用。生成数据可用于检测模型训练、评测集构建和长尾异常分析。
-{: .lang-zh}
+### 02 联邦多视图学习
 
-## <i class="fas fa-search section-icon" aria-hidden="true"></i><span class="lang-en">2. Anomaly Detection</span><span class="lang-zh">2. 异常检测</span>
+面向数据分散、隐私保护和跨客户端协同场景，研究**联邦环境下的多视图表示与聚类方法**，重点关注异构数据协同、通信效率、隐私保护及模型泛化等问题。
 
-We develop unsupervised, few-shot, zero-shot, and unified anomaly detection methods for industrial images, point clouds, 3D geometry, and multi-view data. The research covers foundation models, vision-language models, normal prototype modeling, fine-grained localization, and generalization across products, defect types, and production sites.
-{: .lang-en}
+### 03 复杂场景下的多视图学习
 
-研究无监督、少样本、零样本和统一异常检测，覆盖 2D 图像、点云、3D 几何和多视角图像等数据。主要关注正常原型建模、视觉语言模型、细粒度定位和跨产品泛化，提高模型面对产线、产品或缺陷类型变化时的适应能力。代表性成果包括首届 CVPR VAND 挑战赛全球亚军方法 Segment Any Anomaly，以及被多支获奖队伍采用的 INP-Former。
-{: .lang-zh}
+面向真实应用中的**缺失视图、大规模数据、动态数据及噪声干扰**等问题，研究鲁棒、高效和可扩展的多视图学习方法，提升模型在复杂开放环境下的适应能力。
 
-## <i class="fas fa-brain section-icon" aria-hidden="true"></i><span class="lang-en">3. Anomaly Understanding</span><span class="lang-zh">3. 异常理解</span>
+</div>
 
-We study multimodal anomaly understanding with foundation models. The research covers anomaly description, attribute recognition, cause analysis, visual question answering, risk assessment, and recovery suggestions. Representative work includes IAD-R1, which applies reinforcement learning to industrial anomaly reasoning.
-{: .lang-en}
+<div class="lang-en">
 
-传统异常检测通常只输出分数和热力图，难以直接说明异常是什么、为何出现以及如何处理。我们利用多模态大模型开展异常描述、属性识别、原因分析、视觉问答、风险评估和恢复建议研究。代表性成果 IAD-R1 将强化学习用于工业异常推理。
-{: .lang-zh}
+Research focuses on multi-view learning and machine learning for heterogeneous multi-source data, with particular interests in representation learning, clustering, federated learning, and learning under complex real-world scenarios.
 
-## <i class="fas fa-robot section-icon" aria-hidden="true"></i><span class="lang-en">4. Embodied Perception</span><span class="lang-zh">4. 具身感知</span>
+### 01 Multi-view Learning and Clustering
 
-We integrate anomaly detection and understanding into robots and unmanned inspection systems. Robots actively select viewpoints, plan observation paths, gather multimodal evidence, and revisit suspicious regions. This allows them to discover, verify, and understand anomalies in open industrial environments and provide evidence for subsequent decisions and recovery actions.
-{: .lang-en}
+Learning consistent and complementary representations from heterogeneous multi-view data, with interests in multi-view clustering, representation learning, multiple kernel learning, and information fusion.
 
-具身感知面向机器人巡检。我们将异常检测和异常理解模型集成到机器人与无人巡检系统中，使机器人能够根据当前观测主动调整视角和路线，并对疑似区域进行复查，从而在开放工业环境中完成异常发现、确认和解释，为后续处置提供依据。
-{: .lang-zh}
+### 02 Federated Multi-view Learning
 
-## <i class="fas fa-seedling section-icon" aria-hidden="true"></i><span class="lang-en">5. AI + Bio-Breeding</span><span class="lang-zh">5. 人工智能+生物育种</span>
+Developing collaborative multi-view learning methods under distributed and privacy-preserving settings, with emphasis on data heterogeneity, communication efficiency, privacy, and generalization.
 
-We study crop world models, foundation models for crop phenotyping, and autonomous robotic operation. Crop world models represent crop states and their interactions with the environment and robotic actions. Phenotyping foundation models integrate multimodal observations to identify and quantify plant traits. Autonomous robotic operation focuses on task planning, active observation, and precise execution in complex agricultural environments.
-{: .lang-en}
+### 03 Multi-view Learning in Complex Scenarios
 
-围绕作物育种中的感知、理解和作业，研究作物世界模型、表型解析大模型和机器人自主操作。作物世界模型用于刻画作物状态及其与环境、操作之间的关系；表型解析大模型面向多模态观测，识别并量化作物性状；机器人自主操作关注复杂农业环境下的任务规划、主动观测和精准作业。
-{: .lang-zh}
+Developing robust and scalable multi-view learning methods for incomplete views, large-scale data, dynamic environments, and noisy observations.
+
+</div>
 
 -----
 
@@ -579,92 +627,110 @@ We study crop world models, foundation models for crop phenotyping, and autonomo
 
 # <i class="fas fa-layer-group section-icon" aria-hidden="true"></i><span class="lang-en">Representative Works</span><span class="lang-zh">代表性成果</span>
 
-The selected works below cover anomaly generation, anomaly detection, anomaly understanding, and embodied inspection.
-{: .lang-en}
+<p class="lang-zh">
+围绕多视图学习中的一致性与互补性建模、联邦协同、大规模学习和不完整数据等问题，形成了一系列代表性研究成果。
+</p>
 
-部分代表性成果如下，涵盖异常生成、异常检测、异常理解和具身巡检。
-{: .lang-zh}
+<p class="lang-en">
+Selected works on multi-view learning, federated learning, large-scale clustering, and incomplete multi-view learning.
+</p>
 
 <div class="works-grid">
-  <article class="work-card">
-    <a href="https://github.com/yuxin-jiang/Anomagic" target="_blank" rel="noopener">
-      <img src="/images/works/anomagic.webp" alt="Anomagic framework">
-    </a>
-    <div class="work-body">
-      <p class="work-kicker"><i class="fas fa-magic" aria-hidden="true"></i><span class="lang-en">Anomaly Generation</span><span class="lang-zh">异常生成</span></p>
-      <h3>Anomagic</h3>
-      <p class="lang-en">Crossmodal prompt-driven zero-shot anomaly generation for controllable defect synthesis.</p>
-      <p class="lang-zh">利用视觉和文本提示控制缺陷的位置与形态，在没有真实异常样本的情况下生成训练数据。</p>
-      <p class="work-links"><a href="https://github.com/yuxin-jiang/Anomagic" target="_blank" rel="noopener">Repository</a></p>
-    </div>
-  </article>
 
-  <article class="work-card">
-    <a href="https://github.com/hustCYQ/Synthesis4AD" target="_blank" rel="noopener">
-      <img src="/images/works/synthesis4ad.webp" alt="Synthesis4AD system pipeline">
-    </a>
+  <div class="work-card">
+    <img src="/images/work_fmvc.png" alt="Federated Multi-view Clustering">
     <div class="work-body">
-      <p class="work-kicker"><i class="fas fa-cubes" aria-hidden="true"></i><span class="lang-en">Anomaly Generation</span><span class="lang-zh">3D 缺陷合成</span></p>
-      <h3>Synthesis4AD</h3>
-      <p class="lang-en">A practical pipeline for 3D anomaly synthesis, model training, and online inference in industrial inspection.</p>
-      <p class="lang-zh">面向 3D 工业检测，将缺陷合成、模型训练和在线推理组织为一套完整流程。</p>
-      <p class="work-links"><a href="https://github.com/hustCYQ/Synthesis4AD" target="_blank" rel="noopener">Repository</a></p>
+      <p class="work-kicker">
+        <i class="fas fa-network-wired"></i>
+        TPAMI 2025
+      </p>
+      <h3>Communication-Efficient Federated Multi-view Clustering</h3>
+      <p class="lang-zh">
+        面向数据分散与隐私受限场景，研究通信高效的联邦多视图聚类方法，实现跨客户端多视图信息的协同建模。
+      </p>
+      <p class="lang-en">
+        Communication-efficient federated multi-view clustering under distributed and privacy-preserving settings.
+      </p>
+      <p class="work-links">
+        <a href="#">Paper</a>
+        ·
+        <a href="#">Code</a>
+      </p>
     </div>
-  </article>
+  </div>
 
-  <article class="work-card">
-    <a href="https://github.com/luow23/INP-Former" target="_blank" rel="noopener">
-      <img src="/images/works/inp-former.webp" alt="INP-Former framework">
-    </a>
-    <div class="work-body">
-      <p class="work-kicker"><i class="fas fa-search" aria-hidden="true"></i><span class="lang-en">Anomaly Detection</span><span class="lang-zh">通用异常检测</span></p>
-      <h3>INP-Former</h3>
-      <p class="lang-en">Intrinsic normal prototypes extracted from a single image for universal anomaly detection.</p>
-      <p class="lang-zh">从单张图像中提取正常原型，用于跨类别的通用异常检测。该方法被 CVPR VAND 多支获奖队伍采用。</p>
-      <p class="work-links"><a href="https://github.com/luow23/INP-Former" target="_blank" rel="noopener">Repository</a></p>
-    </div>
-  </article>
 
-  <article class="work-card">
-    <a href="https://hustcyq.github.io/M2AD/" target="_blank" rel="noopener">
-      <img src="/images/works/m2ad.webp" alt="M2AD dataset examples">
-    </a>
+  <div class="work-card">
+    <img src="/images/work_cmkl.png" alt="Contrastive Multi-view Kernel Learning">
     <div class="work-body">
-      <p class="work-kicker"><i class="fas fa-database" aria-hidden="true"></i><span class="lang-en">Benchmark</span><span class="lang-zh">多视角多光照检测</span></p>
-      <h3>M2AD</h3>
-      <p class="lang-en">A large-scale benchmark for visual anomaly detection under coupled view and illumination changes.</p>
-      <p class="lang-zh">针对视角和光照变化，构建多视角、多光照工业异常检测数据集，用于评估模型在复杂成像条件下的稳定性。</p>
-      <p class="work-links"><a href="https://hustcyq.github.io/M2AD/" target="_blank" rel="noopener"><span class="lang-en">Project Page</span><span class="lang-zh">项目主页</span></a></p>
+      <p class="work-kicker">
+        <i class="fas fa-project-diagram"></i>
+        TPAMI 2023
+      </p>
+      <h3>Contrastive Multi-view Kernel Learning</h3>
+      <p class="lang-zh">
+        将对比学习思想引入多视图核学习，通过不同视图与核表示之间的结构关系提升多源数据的聚类表示能力。
+      </p>
+      <p class="lang-en">
+        Contrastive learning for multi-view kernel representations and clustering.
+      </p>
+      <p class="work-links">
+        <a href="#">Paper</a>
+        ·
+        <a href="#">Code</a>
+      </p>
     </div>
-  </article>
+  </div>
 
-  <article class="work-card">
-    <a href="https://github.com/Yanhui-Lee/IAD-R1" target="_blank" rel="noopener">
-      <img src="/images/works/iad-r1.webp" alt="IAD-R1 overview">
-    </a>
-    <div class="work-body">
-      <p class="work-kicker"><i class="fas fa-brain" aria-hidden="true"></i><span class="lang-en">Anomaly Understanding</span><span class="lang-zh">异常理解</span></p>
-      <h3>IAD-R1</h3>
-      <p class="lang-en">A post-training framework for industrial anomaly reasoning with vision-language models.</p>
-      <p class="lang-zh">通过后训练提升视觉语言模型的异常推理能力，使其能够判断和定位异常，并说明判断原因。</p>
-      <p class="work-links"><a href="https://github.com/Yanhui-Lee/IAD-R1" target="_blank" rel="noopener">Repository</a></p>
-    </div>
-  </article>
 
-  <article class="work-card">
-    <a href="https://github.com/caoyunkang/CPMF" target="_blank" rel="noopener">
-      <img src="/images/works/cpmf.webp" alt="CPMF framework">
-    </a>
+  <div class="work-card">
+    <img src="/images/work_lmvc.png" alt="Large-scale Multi-view Tensor Clustering">
     <div class="work-body">
-      <p class="work-kicker"><i class="fas fa-cube" aria-hidden="true"></i><span class="lang-en">3D Anomaly Detection</span><span class="lang-zh">点云异常检测</span></p>
-      <h3>CPMF</h3>
-      <p class="lang-en">Complementary pseudo multimodal features for point cloud anomaly detection.</p>
-      <p class="lang-zh">结合 3D 点云和多视角 2D 特征，改进点云异常检测与细粒度定位。</p>
-      <p class="work-links"><a href="https://github.com/caoyunkang/CPMF" target="_blank" rel="noopener">Repository</a></p>
+      <p class="work-kicker">
+        <i class="fas fa-database"></i>
+        CVPR 2025
+      </p>
+      <h3>Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels</h3>
+      <p class="lang-zh">
+        面向大规模多视图数据，研究基于隐式线性核和张量建模的高效聚类方法，提升多视图学习在大规模场景下的可扩展性。
+      </p>
+      <p class="lang-en">
+        Scalable tensor-based multi-view clustering with implicit linear kernels.
+      </p>
+      <p class="work-links">
+        <a href="#">Paper</a>
+        ·
+        <a href="#">Code</a>
+      </p>
     </div>
-  </article>
+  </div>
+
+
+  <div class="work-card">
+    <img src="/images/work_imvc.png" alt="Incomplete Multi-view Deep Clustering">
+    <div class="work-body">
+      <p class="work-kicker">
+        <i class="fas fa-puzzle-piece"></i>
+        NeurIPS 2025
+      </p>
+      <h3>Incomplete Multi-view Deep Clustering with Data Imputation and Alignment</h3>
+      <p class="lang-zh">
+        面向现实数据中的视图缺失问题，将数据补全与跨视图表示对齐结合，实现更加鲁棒的不完整多视图深度聚类。
+      </p>
+      <p class="lang-en">
+        Deep clustering for incomplete multi-view data through joint imputation and alignment.
+      </p>
+      <p class="work-links">
+        <a href="#">Paper</a>
+        ·
+        <a href="#">Code</a>
+      </p>
+    </div>
+  </div>
+
 </div>
 
+-----
 -----
 
 <span class='anchor' id='projects'></span>
