@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Jiyuan Liu (刘吉元)
+# 刘吉元
 
 <div class="profile-lead">
 
@@ -737,6 +737,16 @@ redirect_from:
   }
 
 
+@media (min-width: 925px) {
+  .sidebar .author__avatar img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .sidebar .author__content {
+    text-align: center;
+  }
+}
 
 </style>
 
