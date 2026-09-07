@@ -96,6 +96,7 @@
     height: 75px;
     min-width: 75px;
     max-width: 75px;
+    margin: 0 auto;
 
     object-fit: cover;
     object-position: center 25%;
@@ -122,9 +123,12 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
+    width: 160px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    text-align: center;
   }
 }
 

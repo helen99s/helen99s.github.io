@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "刘吉元"
   avatar           : "images/profile.jpg"
-  bio              : "国防科技大学系统工程学院副教授 · 硕士生导师"
+  # bio              : "国防科技大学系统工程学院副教授"
   location         : "湖南长沙"
   employer         :
   pubmed           : 
