@@ -735,7 +735,8 @@ redirect_from:
   .recruit-grid {
     grid-template-columns: 1fr;
   }
-}
+
+
 
 </style>
 
@@ -803,7 +804,7 @@ redirect_from:
 
 # <i class="far fa-calendar-alt section-icon" aria-hidden="true"></i><span class="lang-en">News</span><span class="lang-zh">最新动态</span>
 
-- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.07**：3 篇论文被 **ACM Multimedia 2026（CCF A）**录用，研究涉及联邦多视图聚类、主锚图学习和不完整多视图聚类。</span><span class="lang-en">**2026.07**: Three papers were accepted by **ACM Multimedia 2026 (CCF A)**.</span>
+- <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.07**：3 篇论文被 **ACM Multimedia 2026（CCF A）**录用，研究涉及联邦多视图聚类、锚图学习和不完整多视图聚类。</span><span class="lang-en">**2026.07**: Three papers were accepted by **ACM Multimedia 2026 (CCF A)**.</span>
 
 - <i class="far fa-calendar-alt news-icon" aria-hidden="true"></i><span class="lang-zh">**2026.05**：1 篇论文被 **ICML 2026（CCF A）**录用，研究面向多视图聚类中的层次化锚图学习。</span><span class="lang-en">**2026.05**: One paper was accepted by **ICML 2026 (CCF A)**.</span>
 
