@@ -717,6 +717,15 @@ redirect_from:
   .sidebar .author__content {
     text-align: center;
   }
+
+  .sidebar .author__urls {
+    width: max-content;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    text-align: left;
+  }
 }
 
 </style>
