@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 刘吉元
-
 <div class="profile-lead">
 
   <p class="role-line">
