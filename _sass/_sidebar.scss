@@ -281,3 +281,10 @@
     display: none;
   }
 }
+
+
+@media (min-width: 925px) {
+  .sidebar .author__urls-wrapper {
+    margin-top: 20px;
+  }
+}

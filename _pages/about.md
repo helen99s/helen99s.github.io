@@ -488,12 +488,6 @@ redirect_from:
   padding: 4px 8px;
 }
 
-@media (max-width: 900px) {
-  .research-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
 .experience-timeline {
   position: relative;
   margin: 1rem 0 1.7rem;
@@ -731,11 +725,6 @@ redirect_from:
   font-weight: 600;
 }
 
-@media (max-width: 900px) {
-  .recruit-grid {
-    grid-template-columns: 1fr;
-  }
-
 
 @media (min-width: 925px) {
   .sidebar .author__avatar img {
@@ -898,63 +887,34 @@ For more updates, please visit the <a href="https://liujiyuan13.github.io/" targ
 </div>
 
 <div class="recruit-grid">
-
   <div class="recruit-card">
-    <div class="recruit-icon">
-      <i class="fas fa-compass"></i>
-    </div>
-
     <h3>主要招生方向</h3>
-
-    <div class="recruit-tags">
-      <span>多视图学习</span>
-      <span>联邦多视图学习</span>
-      <span>多视图聚类</span>
-      <span>表示学习</span>
-      <span>智能信息融合</span>
-    </div>
-
-    <p class="recruit-note">
-      具体研究内容可参见下方“研究方向”模块。
+    <p>
+      多视图学习、联邦多视图学习、多视图聚类、表示学习与智能信息融合。
+      具体内容参见下方“研究方向”。
     </p>
   </div>
 
-
   <div class="recruit-card">
-    <div class="recruit-icon">
-      <i class="fas fa-graduation-cap"></i>
-    </div>
-
     <h3>招生信息</h3>
-
     <p>
       面向计算机、人工智能、自动化及相关专业背景的学生开展科研与研究生培养。
-    </p>
-
-    <p>
       具体招生类型、名额及申请要求以后续招生通知和导师安排为准。
     </p>
   </div>
 
-
   <div class="recruit-card">
-    <div class="recruit-icon">
-      <i class="fas fa-envelope"></i>
-    </div>
-
     <h3>申请与联系</h3>
-
     <p>
-      有意申请或参与科研的同学，可邮件联系并附个人简历、成绩单及简要研究兴趣介绍。
+      有意申请或参与科研的同学，可通过
+      <a href="mailto:liujiyuan13@nudt.edu.cn">liujiyuan13@nudt.edu.cn</a>
+      联系，并附个人简历、成绩单及简要研究兴趣介绍。
     </p>
-
     <p class="recruit-note">
-      邮件主题建议注明：姓名 · 学校 · 专业 · 申请类型
+      邮件主题建议注明：姓名 · 学校 · 专业 · 申请类型。
     </p>
   </div>
-
 </div>
-
 
 -----
 
@@ -963,55 +923,49 @@ For more updates, please visit the <a href="https://liujiyuan13.github.io/" targ
 # <i class="fas fa-microscope section-icon" aria-hidden="true"></i>研究方向
 
 <p class="section-lead">
-主要围绕多源异构数据的表示、融合与学习开展研究，重点关注多视图学习理论与算法，以及面向复杂现实场景的高效、可靠机器学习方法。
+  主要围绕多源异构数据的表示、融合与学习开展研究，重点关注多视图学习理论与算法，
+  以及面向复杂现实场景的高效、可靠机器学习方法。
 </p>
 
 <div class="research-grid">
-
   <div class="research-card">
-    <div class="research-index">01</div>
-    <h3>多视图学习与聚类</h3>
+    <h3><span class="research-index">01</span>多视图学习与聚类</h3>
     <p>
-      围绕多源异构数据中不同视图之间的一致性与互补性，研究多视图表示学习、聚类、多核学习与信息融合方法，探索更加完整、可靠的潜在结构。
+      围绕多源异构数据中不同视图之间的一致性与互补性，
+      研究多视图表示学习、聚类、多核学习与信息融合方法，
+      探索更加完整、可靠的潜在结构。
     </p>
-    <div class="research-tags">
-      <span>Multi-view Clustering</span>
-      <span>Representation Learning</span>
-      <span>Multiple Kernel Learning</span>
-    </div>
+    <p class="research-tags">
+      Multi-view Clustering · Representation Learning · Multiple Kernel Learning
+    </p>
   </div>
 
   <div class="research-card">
-    <div class="research-index">02</div>
-    <h3>联邦多视图学习</h3>
+    <h3><span class="research-index">02</span>联邦多视图学习</h3>
     <p>
-      面向数据分散、隐私保护和跨客户端协同场景，研究联邦环境下的多视图表示与聚类方法，重点关注异构数据协同、通信效率与模型泛化。
+      面向数据分散、隐私保护和跨客户端协同场景，
+      研究联邦环境下的多视图表示与聚类方法，
+      重点关注异构数据协同、通信效率与模型泛化。
     </p>
-    <div class="research-tags">
-      <span>Federated Learning</span>
-      <span>Privacy</span>
-      <span>Distributed Learning</span>
-    </div>
+    <p class="research-tags">
+      Federated Learning · Privacy · Distributed Learning
+    </p>
   </div>
 
   <div class="research-card">
-    <div class="research-index">03</div>
-    <h3>复杂场景多视图学习</h3>
+    <h3><span class="research-index">03</span>复杂场景多视图学习</h3>
     <p>
-      面向真实应用中的缺失视图、大规模数据、动态数据和噪声干扰等问题，研究鲁棒、高效和可扩展的多视图学习方法。
+      面向真实应用中的缺失视图、大规模数据、动态数据和噪声干扰等问题，
+      研究鲁棒、高效和可扩展的多视图学习方法。
     </p>
-    <div class="research-tags">
-      <span>Incomplete Views</span>
-      <span>Large-scale Learning</span>
-      <span>Robust Learning</span>
-    </div>
+    <p class="research-tags">
+      Incomplete Views · Large-scale Learning · Robust Learning
+    </p>
   </div>
-
 </div>
 
 -----
 
------
 
 <span class='anchor' id='works'></span>
 
